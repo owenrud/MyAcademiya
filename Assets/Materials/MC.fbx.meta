@@ -1,0 +1,3396 @@
+fileFormatVersion: 2
+guid: bb05ae0d9543a2540b4f6c4479cd3fcc
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_c0001body1skin2B_1_0_0.001
+    second: {fileID: 2100000, guid: 7d11e729ccda1504d82089baed6056e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_c0001body1skinte2B_1_0_0.001
+    second: {fileID: 2100000, guid: 7d11e729ccda1504d82089baed6056e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_c0001bodyhand2_1_0_0.001
+    second: {fileID: 2100000, guid: d3e6ac13d9197a64bbb615a4ee489c97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_c0001bodyjyake2B_1_0_0.001
+    second: {fileID: 2100000, guid: 7d11e729ccda1504d82089baed6056e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_c0001bodypant2B_1_0_0.001
+    second: {fileID: 2100000, guid: 7d11e729ccda1504d82089baed6056e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_c0001bodysyatu2B_1_0_0.001
+    second: {fileID: 2100000, guid: 7d11e729ccda1504d82089baed6056e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_c0001t1eye(1)_1_0_0.001
+    second: {fileID: 2100000, guid: 66dd839a01d52fd42b96d4b2517aec2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_c0001t1eye(2)_1_0_0.001
+    second: {fileID: 2100000, guid: 66dd839a01d52fd42b96d4b2517aec2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_c0001t1eye(3)_1_0_0.001
+    second: {fileID: 2100000, guid: 66dd839a01d52fd42b96d4b2517aec2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_c0001t1eye_1_0_0.001
+    second: {fileID: 2100000, guid: 66dd839a01d52fd42b96d4b2517aec2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_c0001t1eye_1_1_0_0.001
+    second: {fileID: 2100000, guid: 66dd839a01d52fd42b96d4b2517aec2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_c0001t1facekuti_1_0_0.001
+    second: {fileID: 2100000, guid: 66dd839a01d52fd42b96d4b2517aec2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_c0001t1faceskin1_1_0_0.001
+    second: {fileID: 2100000, guid: 66dd839a01d52fd42b96d4b2517aec2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_c0001t1faceskin2_1_0_0.001
+    second: {fileID: 2100000, guid: 66dd839a01d52fd42b96d4b2517aec2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_hairmae_1_0_0.001
+    second: {fileID: 2100000, guid: d7eb9e819beaa1f4ea3290042fdeb3b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_hairusiro_1_0_0.001
+    second: {fileID: 2100000, guid: d7eb9e819beaa1f4ea3290042fdeb3b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_kaban2_1_0_0.001
+    second: {fileID: 2100000, guid: b2194dabefc690d48af0716e8664c66c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_kaban_1_0_0.001
+    second: {fileID: 2100000, guid: b2194dabefc690d48af0716e8664c66c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_ase_1_0_0.001
+    second: {fileID: 2100000, guid: 953766d6bddcad04aafe0a5a9d5b42d9, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: root hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg right thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg right knee
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg right ankle
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg right toes
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine lower
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine upper
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head neck lower
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right shoulder 1
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right shoulder 2
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right elbow
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right wrist
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head neck upper
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: root head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head eye right lower 3
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head eye left lower 2
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left shoulder 1
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left shoulder 2
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left elbow
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left wrist
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg left thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg left knee
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg left ankle
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg left toes
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 2a
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 2b
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 2c
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 1a
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 1b
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 1c
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 3a
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 3b
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 3c
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 4a
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 4b
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 4c
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 5a
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 5b
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm left finger 5c
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 2a
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 2b
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 2c
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 1a
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 1b
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 1c
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 3a
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 3b
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 3c
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 4a
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 4b
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 4c
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 5a
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 5b
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm right finger 5c
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: MC(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 5_c0001body1skin2B_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_c0001body1skinte2B_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_c0001bodyhand2_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_c0001bodyjyake2B_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_c0001bodypant2B_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_c0001bodysyatu2B_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_c0001t1eye(1)_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_c0001t1eye(2)_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_c0001t1eye(3)_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_c0001t1eye:1_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_c0001t1eye_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_c0001t1facekuti_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_c0001t1faceskin1_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_c0001t1faceskin2_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_hairmae_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_hairusiro_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_kaban2_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_kaban_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 7_ase_1_0_0.001
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Armature
+      parentName: MC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: root ground
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -6.123212e-17, y: -0, z: 1, w: -2.7755576e-15}
+      scale: {x: 1, y: 0.9999945, z: 0.9999945}
+    - name: unused c0001_face
+      parentName: root ground
+      position: {x: 0.0000000017880699, y: -0.00055440486, z: 0.02043025}
+      rotation: {x: -0.000000009551691, y: -0.6073102, z: -0.7944648, w: 0.000000045850623}
+      scale: {x: 1, y: 0.9999981, z: 1.0000029}
+    - name: unused c0001_face_end
+      parentName: unused c0001_face
+      position: {x: -0, y: 0.021171834, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused kaban1
+      parentName: root ground
+      position: {x: 0.0017592548, y: 0.00015856355, z: 0.0185948}
+      rotation: {x: 0.000000033527613, y: -0.6092779, z: -0.7908588, w: 0.05764384}
+      scale: {x: 1.0000001, y: 0.9999973, z: 1.0000044}
+    - name: unused kaban1_end
+      parentName: unused kaban1
+      position: {x: -0, y: 0.019295104, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused c0001_body_seifuku3
+      parentName: root ground
+      position: {x: -0, y: -0.0010695052, z: 0.00993445}
+      rotation: {x: 0.000000038123666, y: -0.4892069, z: -0.87216777, w: 0.000000021383906}
+      scale: {x: 1, y: 0.9999976, z: 0.99999845}
+    - name: unused c0001_body_seifuku3_end
+      parentName: unused c0001_body_seifuku3
+      position: {x: -0, y: 0.011641828, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused blur_hair sei
+      parentName: root ground
+      position: {x: -0, y: -0.00046950398, z: 0.0173367}
+      rotation: {x: 0.000000035253024, y: -0.59124064, z: -0.80649525, w: 0.000000025843947}
+      scale: {x: 0.99999976, y: 0.99999684, z: 0.9999993}
+    - name: unused blur_hair sei_end
+      parentName: unused blur_hair sei
+      position: {x: -0, y: 0.018179016, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused blur_face sei
+      parentName: root ground
+      position: {x: -0, y: -0.00046950398, z: 0.0173367}
+      rotation: {x: 0.000000035253024, y: -0.59124064, z: -0.80649525, w: 0.000000025843947}
+      scale: {x: 0.99999976, y: 0.99999684, z: 0.9999993}
+    - name: unused blur_face sei_end
+      parentName: unused blur_face sei
+      position: {x: -0, y: 0.018179016, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused c0001_body_hand
+      parentName: root ground
+      position: {x: -0, y: -0.0010695052, z: 0.00993445}
+      rotation: {x: 0.000000038123666, y: -0.4892069, z: -0.87216777, w: 0.000000021383906}
+      scale: {x: 1, y: 0.9999976, z: 0.99999845}
+    - name: unused c0001_body_hand_end
+      parentName: unused c0001_body_hand
+      position: {x: -0, y: 0.011641828, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused rot
+      parentName: root ground
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00000002641389, y: -0.79677254, z: -0.6042793, w: 0.00000003482803}
+      scale: {x: 1, y: 1.0000046, z: 1.0000013}
+    - name: unused h_b_mz1
+      parentName: unused rot
+      position: {x: -3.1300082e-10, y: 0.01922909, z: 0.0035803127}
+      rotation: {x: 0.36646935, y: -0.000000040670386, z: 0.000000016018891, w: 0.9304302}
+      scale: {x: 1, y: 1.0000008, z: 1.0000021}
+    - name: unused h_b_mz1_end
+      parentName: unused h_b_mz1
+      position: {x: -0, y: 0.0052501247, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused bip01
+      parentName: unused rot
+      position: {x: 3.130009e-10, y: 0.0115492055, z: -0.0035803127}
+      rotation: {x: 0.9897675, y: -0.000000006237144, z: 0.00000004326407, w: 0.14268942}
+      scale: {x: 1, y: 1.00001, z: 1.0000077}
+    - name: unused h_c_fs1
+      parentName: unused bip01
+      position: {x: -1.1427035e-18, y: 0.0008298079, z: -0.00016082104}
+      rotation: {x: -0.9998984, y: -5.329071e-15, z: 1.776357e-14, w: 0.014255748}
+      scale: {x: 1, y: 1.000008, z: 1.000008}
+    - name: unused h_c_fs1_end
+      parentName: unused h_c_fs1
+      position: {x: -0, y: 0.0056411647, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root hips
+      parentName: unused bip01
+      position: {x: 1.0408341e-16, y: -0.0003920057, z: -0.0000052087657}
+      rotation: {x: -1, y: -8.437696e-15, z: -0.00000004371137, w: 0.000000014901161}
+      scale: {x: 1, y: 1.0000068, z: 1.0000074}
+    - name: jacket side right 2
+      parentName: root hips
+      position: {x: 0.0018009751, y: 0.0012194727, z: -0.0000085551765}
+      rotation: {x: 0.9950629, y: 0.067815535, z: 0.06872422, w: -0.022976685}
+      scale: {x: 1.0000119, y: 1.0000161, z: 1.0000196}
+    - name: jacket right 1
+      parentName: jacket side right 2
+      position: {x: 0.00011543249, y: 0.0008387529, z: 0.00007296271}
+      rotation: {x: -0.010298481, y: 0.008949174, z: -0.010685057, w: 0.99984986}
+      scale: {x: 0.9999943, y: 0.9999931, z: 0.9999944}
+    - name: unused b r suso01a
+      parentName: jacket right 1
+      position: {x: 1.8626451e-11, y: 0.0014512328, z: 7.4505804e-11}
+      rotation: {x: 0.0000000046566133, y: -0.000000075437136, z: 2.983143e-10, w: 1}
+      scale: {x: 1.0000017, y: 0.9999857, z: 0.99999756}
+    - name: unused b r suso01a_end
+      parentName: unused b r suso01a
+      position: {x: -0, y: 0.0014512328, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jacket side right 3
+      parentName: jacket side right 2
+      position: {x: -0.00011543274, y: 0.002420777, z: -0.000072962655}
+      rotation: {x: -0.03978958, y: -0.07845944, z: 0.07553244, w: 0.9932552}
+      scale: {x: 1.0000212, y: 0.99998385, z: 0.9999862}
+    - name: jacket side right 3_end
+      parentName: jacket side right 3
+      position: {x: -0, y: 0.00080271414, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jacket back right 1
+      parentName: root hips
+      position: {x: 0.0009471701, y: 0.0012372588, z: -0.0013476658}
+      rotation: {x: 0.9987365, y: 0.0000009938695, z: 0.0000010385523, w: -0.050254054}
+      scale: {x: 1, y: 1.0000013, z: 1.0000327}
+    - name: jacket back right 2
+      parentName: jacket back right 1
+      position: {x: -6.0935576e-11, y: 0.0024246264, z: -2.9018565e-13}
+      rotation: {x: -0.0000000037252907, y: 5.2580167e-12, z: 0.00000001097692, w: 1}
+      scale: {x: 1, y: 1.0000134, z: 1.0000156}
+    - name: jacket back right 2_end
+      parentName: jacket back right 2
+      position: {x: -0, y: 0.0024246275, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jacket back left 1
+      parentName: root hips
+      position: {x: -0.0009471799, y: 0.0012372588, z: -0.001347666}
+      rotation: {x: 0.9987365, y: 0.000000013159397, z: 0.000000044215437, w: -0.050254054}
+      scale: {x: 1, y: 1.0000013, z: 1.0000327}
+    - name: jacket back left 2
+      parentName: jacket back left 1
+      position: {x: 1.1007562e-11, y: 0.0024246268, z: -1.4902606e-10}
+      rotation: {x: -0.0000000037252907, y: 4.418688e-14, z: 0.000000010976584, w: 1}
+      scale: {x: 1, y: 1.0000134, z: 1.0000156}
+    - name: jacket back left 2_end
+      parentName: jacket back left 2
+      position: {x: -0, y: 0.0024246275, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jacket front right 1
+      parentName: root hips
+      position: {x: 0.00095617486, y: 0.0012012931, z: 0.0013600962}
+      rotation: {x: 0.99997795, y: 0.0000010222781, z: 0.0000010799146, w: -0.006639913}
+      scale: {x: 1, y: 0.99999964, z: 0.99999964}
+    - name: unused b r f seifuk02
+      parentName: jacket front right 1
+      position: {x: 3.450765e-11, y: 0.0024245994, z: -7.7158405e-11}
+      rotation: {x: -0, y: 6.2085455e-11, z: -5.807124e-10, w: 1}
+      scale: {x: 1, y: 1.0000011, z: 1.0000018}
+    - name: unused b r f seifuk02_end
+      parentName: unused b r f seifuk02
+      position: {x: -0, y: 0.0024246, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jacket front left 1
+      parentName: root hips
+      position: {x: -0.0009561901, y: 0.001201293, z: 0.0013601009}
+      rotation: {x: 0.99997795, y: 0.0000010222765, z: 0.0000010798843, w: -0.0066409265}
+      scale: {x: 1, y: 0.99999964, z: 0.99999964}
+    - name: unused b l f seifuk02
+      parentName: jacket front left 1
+      position: {x: 3.4432616e-11, y: 0.0024245994, z: -1.3323587e-10}
+      rotation: {x: -4.6566134e-10, y: 7.4477764e-11, z: -5.8059874e-10, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.000001}
+    - name: unused b l f seifuk02_end
+      parentName: unused b l f seifuk02
+      position: {x: -0, y: 0.0024246, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jacket side left 2
+      parentName: root hips
+      position: {x: -0.001800985, y: 0.0012194727, z: -0.0000085540005}
+      rotation: {x: 0.995063, y: -0.06781441, z: -0.068723835, w: -0.022976875}
+      scale: {x: 1.0000136, y: 1.0000229, z: 1.0000243}
+    - name: jacket side left 1
+      parentName: jacket side left 2
+      position: {x: -0.00011543016, y: 0.00083875016, z: 0.00007296521}
+      rotation: {x: -0.010299662, y: -0.008948984, z: 0.01068484, w: 0.99984986}
+      scale: {x: 1, y: 1.0000052, z: 1.0000072}
+    - name: unused b l suso01a
+      parentName: jacket side left 1
+      position: {x: 3.5855918e-10, y: 0.0014512322, z: -3.7252902e-11}
+      rotation: {x: 0.000000008381903, y: 0.00000012665987, z: -0.000000028871, w: 1}
+      scale: {x: 0.99999875, y: 1.0000012, z: 1.0000026}
+    - name: unused b l suso01a_end
+      parentName: unused b l suso01a
+      position: {x: -0, y: 0.001451232, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jacket side left 3
+      parentName: jacket side left 2
+      position: {x: 0.00011542946, y: 0.0024207751, z: -0.00007296515}
+      rotation: {x: -0.039791323, y: 0.0784577, z: -0.07553037, w: 0.9932554}
+      scale: {x: 1.0000199, y: 0.99999744, z: 1.0000008}
+    - name: jacket side left 3_end
+      parentName: jacket side left 3
+      position: {x: -0, y: 0.0008027142, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b l pelvis_hojo01
+      parentName: root hips
+      position: {x: -0.001138155, y: -0.000102821185, z: 0.000068808324}
+      rotation: {x: -0.7023952, y: -0.00000002393638, z: -0.000000023429903, w: 0.7117871}
+      scale: {x: 1, y: 0.9999988, z: 0.99999875}
+    - name: unused b l pelvis_hojo02
+      parentName: unused b l pelvis_hojo01
+      position: {x: 5.0831846e-11, y: 0.0022247238, z: -2.9421227e-10}
+      rotation: {x: -0.000000059604645, y: -1.4210855e-14, z: -0.000000010217626, w: 1}
+      scale: {x: 1, y: 1.0000092, z: 1.0000091}
+    - name: unused b l pelvis_hojo02_end
+      parentName: unused b l pelvis_hojo02
+      position: {x: -0, y: 0.0022247226, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b r pelvis_hojo01
+      parentName: root hips
+      position: {x: 0.001138115, y: -0.00010282118, z: 0.00006880803}
+      rotation: {x: -0.70239514, y: -0.000000023936401, z: -0.0000000234299, w: 0.7117872}
+      scale: {x: 1, y: 1.0000025, z: 1.0000024}
+    - name: unused b r pelvis_hojo02
+      parentName: unused b r pelvis_hojo01
+      position: {x: -2.3673943e-11, y: 0.002224723, z: -3.034788e-10}
+      rotation: {x: -0.0000001192093, y: -5.3290714e-15, z: -0.000000010217609, w: 1}
+      scale: {x: 1, y: 1.0000124, z: 1.0000123}
+    - name: unused b r pelvis_hojo02_end
+      parentName: unused b r pelvis_hojo02
+      position: {x: -0, y: 0.002224722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused bip01 spine
+      parentName: root hips
+      position: {x: -0.0000000030485818, y: 0.001114271, z: 0.000013348832}
+      rotation: {x: 0.2188915, y: -0.0000030924134, z: -0.0000030809758, w: 0.9757492}
+      scale: {x: 1, y: 0.9999898, z: 1.0000143}
+    - name: unused h_b_ct1
+      parentName: unused bip01 spine
+      position: {x: -0.0000000060945604, y: 0.0009153497, z: -0.00020595489}
+      rotation: {x: -0.12960401, y: 0.0000040928626, z: 0.0000033002561, w: 0.9915659}
+      scale: {x: 1, y: 0.99998695, z: 1.000013}
+    - name: unused h_b_ct1_end
+      parentName: unused h_b_ct1
+      position: {x: -0, y: 0.0008013116, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right thigh
+      parentName: unused bip01 spine
+      position: {x: 0.0010768512, y: -0.0010131879, z: 0.0004639027}
+      rotation: {x: 0.98318726, y: 0.0018216677, z: 0.0011660354, w: 0.18258761}
+      scale: {x: 0.99999964, y: 0.99998623, z: 1.0000247}
+    - name: leg right thigh adjustment
+      parentName: leg right thigh
+      position: {x: 2.4738256e-12, y: 0.0000000012278906, z: 1.4551915e-11}
+      rotation: {x: -0.99999505, y: -0.000000018859286, z: -0.003155068, w: 0.00000007661812}
+      scale: {x: 1.0000005, y: 1.0000108, z: 1.0000122}
+    - name: unused ik chain r03
+      parentName: leg right thigh adjustment
+      position: {x: -0.00013906631, y: -0.004675887, z: -0.0015896853}
+      rotation: {x: 0.99543077, y: -0.007902871, z: -0.004295243, w: -0.09506228}
+      scale: {x: 0.99999994, y: 1.0000681, z: 0.99998575}
+    - name: unused ik chain r03_end
+      parentName: unused ik chain r03
+      position: {x: -0, y: 0.008402683, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused ik chain r02
+      parentName: leg right thigh adjustment
+      position: {x: 0.0012207811, y: -0.0046306527, z: 0.00026109946}
+      rotation: {x: 0.9944426, y: 0.07472176, z: 0.07344802, w: 0.010300036}
+      scale: {x: 1.0000015, y: 1.0000083, z: 1.0000205}
+    - name: unused ik chain r02_end
+      parentName: unused ik chain r02
+      position: {x: -0, y: 0.008298965, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused ik chain r01
+      parentName: leg right thigh adjustment
+      position: {x: -0.00013936938, y: -0.004237282, z: 0.001604158}
+      rotation: {x: 0.99482226, y: -0.009358511, z: -0.0056666117, w: 0.10103951}
+      scale: {x: 0.9999967, y: 0.99997246, z: 1.00006}
+    - name: unused ik chain r01_end
+      parentName: unused ik chain r01
+      position: {x: -0, y: 0.0079753995, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone adjustment right thigh
+      parentName: leg right thigh adjustment
+      position: {x: 0.00000483888, y: -0.0026884698, z: 0.000017825338}
+      rotation: {x: 0.99999267, y: 0.00039135624, z: 0.0035230431, w: 0.0014219206}
+      scale: {x: 1.0000049, y: 1.0000025, z: 1.0000025}
+    - name: bone adjustment right thigh_end
+      parentName: bone adjustment right thigh
+      position: {x: -0, y: 0.006262375, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone adjustment right knee
+      parentName: leg right thigh
+      position: {x: -0.000009902416, y: 0.005344699, z: 0.000035589783}
+      rotation: {x: 0.010054544, y: -0.0025761984, z: 0.0027696243, w: 0.99994236}
+      scale: {x: 0.9999998, y: 1.0000331, z: 1.0000255}
+    - name: unused b r hiza02
+      parentName: bone adjustment right knee
+      position: {x: -0.000001648543, y: -0.000021356498, z: -0.0008136204}
+      rotation: {x: -0.9773894, y: -0.00010061763, z: 0.0024454598, w: 0.21143346}
+      scale: {x: 0.9999998, y: 1.000057, z: 0.99992704}
+    - name: unused b r hiza02_end
+      parentName: unused b r hiza02
+      position: {x: -0, y: 0.0019685691, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b r thigh_hojo01
+      parentName: leg right thigh
+      position: {x: 0.00047222155, y: -0.00016357192, z: -0.0008308122}
+      rotation: {x: -0.0033087586, y: 0.00086105906, z: -0.0009255428, w: 0.99999374}
+      scale: {x: 0.9999923, y: 1.0000181, z: 1.0000213}
+    - name: unused b r thigh_hojo02
+      parentName: unused b r thigh_hojo01
+      position: {x: -1.9121216e-10, y: 0.0012261667, z: -1.6880221e-11}
+      rotation: {x: -0, y: 0.0000000016880224, z: 0.000000002861953, w: 1}
+      scale: {x: 0.9999996, y: 1.0000117, z: 1.0000173}
+    - name: unused b r thigh_hojo02_end
+      parentName: unused b r thigh_hojo02
+      position: {x: -0, y: 0.0012261672, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right knee
+      parentName: leg right thigh
+      position: {x: 0.000009902285, y: 0.005376938, z: -0.000035589834}
+      rotation: {x: -0.002790779, y: 0.0008587879, z: -0.000921492, w: 0.9999953}
+      scale: {x: 0.99999946, y: 1.0000134, z: 1.0000138}
+    - name: unused b r blur_asi01
+      parentName: leg right knee
+      position: {x: 0.000038053196, y: 0.00019659697, z: 0.00014784085}
+      rotation: {x: -0.9998933, y: -0.0036463512, z: -0.0011240494, w: -0.014100771}
+      scale: {x: 0.9999999, y: 0.99999475, z: 1.0000056}
+    - name: unused b r blur_asi01_end
+      parentName: unused b r blur_asi01
+      position: {x: -0, y: 0.0052413414, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right ankle
+      parentName: leg right knee
+      position: {x: -8.1199686e-11, y: 0.005435712, z: -5.937181e-11}
+      rotation: {x: -0.39185768, y: -0.003135225, z: 0.0013625759, w: 0.9200195}
+      scale: {x: 0.9999995, y: 0.99989885, z: 1.0001134}
+    - name: unused b r blur_asi03
+      parentName: leg right ankle
+      position: {x: 0.00003325134, y: 0.0003563457, z: 0.00042973983}
+      rotation: {x: -0.9895208, y: -0.010471396, z: 0.0045519816, w: -0.1439383}
+      scale: {x: 1.0000006, y: 0.99978906, z: 1.0002166}
+    - name: unused b r blur_asi03_end
+      parentName: unused b r blur_asi03
+      position: {x: -0, y: 0.0015091093, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg right toes
+      parentName: leg right ankle
+      position: {x: 6.5794446e-11, y: 0.00180259, z: -3.303228e-11}
+      rotation: {x: -0, y: -9.313227e-10, z: -1.1641534e-10, w: 1}
+      scale: {x: 1.0000005, y: 1.0000085, z: 1.0000069}
+    - name: unused bip01 r toe0nub
+      parentName: leg right toes
+      position: {x: 0.0000000028183427, y: 0.0006775889, z: -0.0007272728}
+      rotation: {x: -0.9591137, y: -5.7566735e-10, z: -0.0000036301842, w: 0.28302112}
+      scale: {x: 0.9999998, y: 1.0003672, z: 0.99963784}
+    - name: unused bip01 r toe0nub_end
+      parentName: unused bip01 r toe0nub
+      position: {x: -0, y: 0.0013396102, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused bip01 r toe0nub dum
+      parentName: leg right toes
+      position: {x: 0.0000000027830345, y: 0.0006688977, z: -0.0007179441}
+      rotation: {x: -0.96042705, y: 6.028321e-11, z: -0.000003635131, w: 0.27853197}
+      scale: {x: 0.9999998, y: 1.0003649, z: 0.9996418}
+    - name: unused bip01 r toe0nub dum_end
+      parentName: unused bip01 r toe0nub dum
+      position: {x: -0, y: 0.0013419035, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left thigh
+      parentName: unused bip01 spine
+      position: {x: -0.0010768288, y: -0.0010131989, z: 0.00046391657}
+      rotation: {x: 0.9831872, y: -0.0017866113, z: -0.0011536769, w: 0.18258804}
+      scale: {x: 0.99999964, y: 0.9999931, z: 1.000026}
+    - name: leg left thigh adjustment
+      parentName: leg left thigh
+      position: {x: 4.5547493e-11, y: -0.0000000021306914, z: -1.0099029e-10}
+      rotation: {x: -0.9999952, y: -0.000000022002501, z: 0.0031046404, w: -0.000000013500543}
+      scale: {x: 0.99999976, y: 1.0000004, z: 1.0000023}
+    - name: unused ik chain l03
+      parentName: leg left thigh adjustment
+      position: {x: 0.00013892654, y: -0.004675993, z: -0.0015896789}
+      rotation: {x: 0.99543077, y: 0.007890734, z: 0.0043343264, w: -0.09506102}
+      scale: {x: 1.0000005, y: 1.0000482, z: 0.9999707}
+    - name: unused ik chain l03_end
+      parentName: unused ik chain l03
+      position: {x: -0, y: 0.0084027825, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused ik chain l02
+      parentName: leg left thigh adjustment
+      position: {x: -0.0012210035, y: -0.004630441, z: 0.0002610311}
+      rotation: {x: 0.9944442, y: -0.07473607, z: -0.07341157, w: 0.010297787}
+      scale: {x: 1.0000017, y: 0.99998623, z: 0.99999493}
+    - name: unused ik chain l02_end
+      parentName: unused ik chain l02
+      position: {x: -0, y: 0.008298786, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused ik chain l01
+      parentName: leg left thigh adjustment
+      position: {x: 0.00013907718, y: -0.00423779, z: 0.0016042022}
+      rotation: {x: 0.9948226, y: 0.009343159, z: 0.0057032523, w: 0.10103546}
+      scale: {x: 1.0000004, y: 0.99996006, z: 1.0000354}
+    - name: unused ik chain l01_end
+      parentName: unused ik chain l01
+      position: {x: -0, y: 0.007975899, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone adjustment left thigh
+      parentName: leg left thigh adjustment
+      position: {x: -0.0000049649884, y: -0.0026884698, z: 0.000017824214}
+      rotation: {x: 0.99999285, y: -0.00040136857, z: -0.0034822389, w: 0.0014217077}
+      scale: {x: 1.0000015, y: 0.9999982, z: 1.0000037}
+    - name: bone adjustment left thigh_end
+      parentName: bone adjustment left thigh
+      position: {x: -0, y: 0.0062623736, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone adjustment left knee
+      parentName: leg left thigh
+      position: {x: 0.000010151325, y: 0.005344693, z: 0.000035587072}
+      rotation: {x: 0.010053977, y: 0.00264222, z: -0.0028392603, w: 0.99994195}
+      scale: {x: 1.0000006, y: 1.0000021, z: 0.99999654}
+    - name: unused b l hiza02
+      parentName: bone adjustment left knee
+      position: {x: 0.0000017916591, y: -0.000021355072, z: -0.0008136178}
+      rotation: {x: -0.977389, y: 0.000105223284, z: -0.0026386722, w: 0.21143283}
+      scale: {x: 1.000004, y: 1.0000671, z: 0.9999332}
+    - name: unused b l hiza02_end
+      parentName: unused b l hiza02
+      position: {x: -0, y: 0.0019685663, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b l thigh_hojo01
+      parentName: leg left thigh
+      position: {x: -0.00047223864, y: -0.00016359653, z: -0.00083083764}
+      rotation: {x: -0.0033091458, y: -0.000880995, z: 0.0009465729, w: 0.9999937}
+      scale: {x: 0.9999946, y: 0.99999523, z: 1.0000002}
+    - name: unused b l thigh_hojo02
+      parentName: unused b l thigh_hojo01
+      position: {x: -1.6152626e-11, y: 0.0012261659, z: -5.4133125e-11}
+      rotation: {x: -0.00000005960465, y: -7.5669965e-10, z: 0.000000011337989, w: 1}
+      scale: {x: 0.9999996, y: 1.00001, z: 1.0000082}
+    - name: unused b l thigh_hojo02_end
+      parentName: unused b l thigh_hojo02
+      position: {x: -0, y: 0.0012261671, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left knee
+      parentName: leg left thigh
+      position: {x: -0.000010151465, y: 0.0053769336, z: -0.00003558703}
+      rotation: {x: -0.002790392, y: -0.0008812529, z: 0.0009452472, w: 0.9999953}
+      scale: {x: 1.0000006, y: 1.0000198, z: 1.0000225}
+    - name: unused b l blur_asi01
+      parentName: leg left knee
+      position: {x: -0.000038624188, y: 0.00019659889, z: 0.00014783877}
+      rotation: {x: -0.9998932, y: 0.003699992, z: 0.0010648055, w: -0.014100641}
+      scale: {x: 0.9999959, y: 0.99998796, z: 1.0000052}
+    - name: unused b l blur_asi01_end
+      parentName: unused b l blur_asi01
+      position: {x: -0, y: 0.0052413433, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left ankle
+      parentName: leg left knee
+      position: {x: 8.2945914e-11, y: 0.0054357117, z: 9.8953025e-12}
+      rotation: {x: -0.39185736, y: 0.003138255, z: -0.0013668655, w: 0.9200196}
+      scale: {x: 0.9999994, y: 0.9999043, z: 1.0001132}
+    - name: unused b l blur_asi03
+      parentName: leg left ankle
+      position: {x: -0.000033253735, y: 0.00035634587, z: 0.0004297391}
+      rotation: {x: -0.98952085, y: 0.010471115, z: -0.0045594377, w: -0.14393789}
+      scale: {x: 1.0000045, y: 0.9998331, z: 1.0002062}
+    - name: unused b l blur_asi03_end
+      parentName: unused b l blur_asi03
+      position: {x: -0, y: 0.0015091094, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left toes
+      parentName: leg left ankle
+      position: {x: -8.379981e-12, y: 0.0018025922, z: 9.414805e-11}
+      rotation: {x: -0.00000005960466, y: -6.984921e-10, z: -1.1641535e-10, w: 1}
+      scale: {x: 1.0000005, y: 1.0000252, z: 1.0000284}
+    - name: unused bip01 l toe0nub
+      parentName: leg left toes
+      position: {x: 0.0000000026693086, y: 0.00067759043, z: -0.0007272741}
+      rotation: {x: -0.95911354, y: -3.0166064e-11, z: -0.0000036303493, w: 0.2830217}
+      scale: {x: 0.9999996, y: 1.0003133, z: 0.9996913}
+    - name: unused bip01 l toe0nub_end
+      parentName: unused bip01 l toe0nub
+      position: {x: -0, y: 0.0013396114, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused bip01 l toe0nub dum
+      parentName: leg left toes
+      position: {x: 0.0000000026340004, y: 0.00066889916, z: -0.00071794546}
+      rotation: {x: -0.9604268, y: -1.4986962e-10, z: -0.0000036350636, w: 0.27853253}
+      scale: {x: 0.9999996, y: 1.0003113, z: 0.9996933}
+    - name: unused bip01 l toe0nub dum_end
+      parentName: unused bip01 l toe0nub dum
+      position: {x: -0, y: 0.0013419045, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine lower
+      parentName: unused bip01 spine
+      position: {x: -0.000000016293633, y: 0.001674869, z: -0.00072186504}
+      rotation: {x: -0.3126421, y: 0.0000073664437, z: 0.000006349622, w: 0.949871}
+      scale: {x: 1, y: 0.9999731, z: 1.0000259}
+    - name: coattail side left 1a
+      parentName: spine lower
+      position: {x: -0.0017242674, y: 0.0005281462, z: -0.0002539761}
+      rotation: {x: 0.9859706, y: -0.06527856, z: -0.08047411, w: -0.13086148}
+      scale: {x: 1.0000027, y: 1.0000758, z: 0.99995}
+    - name: coattail side left 1b
+      parentName: coattail side left 1a
+      position: {x: 8.381903e-11, y: 0.0011234075, z: 3.7252902e-11}
+      rotation: {x: -0.0000017136337, y: 0.0000018728898, z: -0.000001743436, w: 1}
+      scale: {x: 0.99999774, y: 1.0000072, z: 1.0000072}
+    - name: coattail side left 1c
+      parentName: coattail side left 1b
+      position: {x: -1.5832484e-10, y: 0.0012820038, z: -1.3038516e-10}
+      rotation: {x: -0.000000029801978, y: 0.00000004470314, z: -0.000000014900829, w: 1}
+      scale: {x: 1.000003, y: 1.0000241, z: 1.0000211}
+    - name: unused b l fs_jacket04a
+      parentName: coattail side left 1c
+      position: {x: 0.0000000013876706, y: 0.0019406507, z: 0.000000009573996}
+      rotation: {x: 0.010193206, y: -0.06266185, z: 0.06472922, w: 0.9958814}
+      scale: {x: 0.9999722, y: 1.0000058, z: 1.0000471}
+    - name: unused b l fs_jacket05
+      parentName: unused b l fs_jacket04a
+      position: {x: 5.0291415e-10, y: 0.0013681469, z: 0}
+      rotation: {x: 0.004541435, y: -0.016715666, z: 0.016740285, w: 0.9997099}
+      scale: {x: 0.99997556, y: 1.0000359, z: 1.0000325}
+    - name: unused b l fs_jacket06
+      parentName: unused b l fs_jacket05
+      position: {x: -1.8626451e-11, y: 0.0015386125, z: -3.72529e-10}
+      rotation: {x: -0.006163891, y: -0.0026396925, z: 0.004894896, w: 0.99996555}
+      scale: {x: 0.99999505, y: 1.0000212, z: 1.0000224}
+    - name: unused b l fs_jacket06a
+      parentName: unused b l fs_jacket06
+      position: {x: -5.2154064e-10, y: 0.00280387, z: 2.2351741e-10}
+      rotation: {x: -0, y: 2.3283067e-10, z: -1.036824e-10, w: 1}
+      scale: {x: 1.0000018, y: 1.0000046, z: 1.0000058}
+    - name: unused b l fs_jacket06a_end
+      parentName: unused b l fs_jacket06a
+      position: {x: -0, y: 0.0028038698, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: coattail back left 1a
+      parentName: spine lower
+      position: {x: -0.0005151014, y: 0.00019223393, z: 0.0013385947}
+      rotation: {x: 0.99381626, y: -0.03935373, z: -0.048510708, w: -0.091800235}
+      scale: {x: 0.9999985, y: 1.0000505, z: 0.9999535}
+    - name: coattail back left 1b
+      parentName: coattail back left 1a
+      position: {x: -2.7939677e-11, y: 0.0011234449, z: 4.1909514e-11}
+      rotation: {x: -0.00000061839813, y: -0.0000023199243, z: 0.0000021867452, w: 1}
+      scale: {x: 1.0000015, y: 1.0000098, z: 1.0000157}
+    - name: coattail back left 1c
+      parentName: coattail back left 1b
+      position: {x: -2.7939677e-11, y: 0.0012819582, z: -4.6566128e-12}
+      rotation: {x: 5.6843412e-14, y: -0.000000012340022, z: 0.00000002980224, w: 1}
+      scale: {x: 0.9999986, y: 1.0000099, z: 1.0000148}
+    - name: unused b l f_jacket04a
+      parentName: coattail back left 1c
+      position: {x: 0.000000009546056, y: 0.0019406636, z: 0.00000000346452}
+      rotation: {x: -0.018877188, y: -0.008758384, z: 0.010205195, w: 0.99973136}
+      scale: {x: 0.9999999, y: 1.0000076, z: 1.0000058}
+    - name: unused b l f_jacket05
+      parentName: unused b l f_jacket04a
+      position: {x: -2.1420418e-10, y: 0.0012182988, z: -1.7695129e-10}
+      rotation: {x: 0.008920923, y: 0.016035698, z: -0.016008353, w: 0.99970347}
+      scale: {x: 1.0000097, y: 0.99999744, z: 0.99999815}
+    - name: unused b l f_jacket06
+      parentName: unused b l f_jacket05
+      position: {x: 2.7939677e-11, y: 0.0016946602, z: 1.9557773e-10}
+      rotation: {x: 0.0011599147, y: 0.0012176203, z: -0.0012511524, w: 0.9999978}
+      scale: {x: 0.9999992, y: 1.0000204, z: 1.0000161}
+    - name: unused b l f_jacket06a
+      parentName: unused b l f_jacket06
+      position: {x: -1.9557773e-10, y: 0.0029550989, z: -9.313225e-11}
+      rotation: {x: -9.3132246e-10, y: 0.00000001862645, z: -0.000000011298992, w: 1}
+      scale: {x: 0.9999984, y: 1.0000097, z: 1.00001}
+    - name: unused b l f_jacket06a_end
+      parentName: unused b l f_jacket06a
+      position: {x: -0, y: 0.0029550993, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: coattail back right 1a
+      parentName: spine lower
+      position: {x: 0.0005150536, y: 0.00019223869, z: 0.0013385434}
+      rotation: {x: 0.99381614, y: 0.03934592, z: 0.048520047, w: -0.09179965}
+      scale: {x: 1.000002, y: 1.000053, z: 0.9999698}
+    - name: coattail back right 1b
+      parentName: coattail back right 1a
+      position: {x: -7.4505804e-11, y: 0.0011234476, z: -4.6566128e-12}
+      rotation: {x: -0.0000005438924, y: 0.0000042759348, z: -0.00000410527, w: 1}
+      scale: {x: 1.0000019, y: 1.0000112, z: 1.0000134}
+    - name: coattail back right 1c
+      parentName: coattail back right 1b
+      position: {x: -4.6566126e-11, y: 0.0012819592, z: -6.519258e-11}
+      rotation: {x: -1.1368684e-13, y: 0.000000015599653, z: 0.000000007450641, w: 1}
+      scale: {x: 1.0000002, y: 1.0000112, z: 1.0000143}
+    - name: unused b r f_jacket04a
+      parentName: coattail back right 1c
+      position: {x: -0.000000007264316, y: 0.0019406651, z: 0.0000000037811696}
+      rotation: {x: -0.018899828, y: 0.008773696, z: -0.010222211, w: 0.99973065}
+      scale: {x: 0.9999995, y: 1.0000123, z: 1.0000138}
+    - name: unused b r f_jacket05
+      parentName: unused b r f_jacket04a
+      position: {x: 6.519258e-11, y: 0.001218309, z: 1.0244548e-10}
+      rotation: {x: 0.008975213, y: -0.01586838, z: 0.015856292, w: 0.9997081}
+      scale: {x: 1.0000044, y: 1.00002, z: 1.0000222}
+    - name: unused b r f_jacket06
+      parentName: unused b r f_jacket05
+      position: {x: 4.6566126e-11, y: 0.0016946507, z: -1.8626451e-11}
+      rotation: {x: 0.0011128199, y: -0.0014778285, z: 0.0014972067, w: 0.9999972}
+      scale: {x: 0.9999982, y: 1.0000179, z: 1.0000196}
+    - name: unused b r f_jacket06a
+      parentName: unused b r f_jacket06
+      position: {x: -1.2107193e-10, y: 0.0029551198, z: -5.5879353e-11}
+      rotation: {x: -0.0000000019790607, y: -0.000000020489098, z: 0.000000026290083, w: 1}
+      scale: {x: 1.0000024, y: 0.9999984, z: 0.99999845}
+    - name: unused b r f_jacket06a_end
+      parentName: unused b r f_jacket06a
+      position: {x: -0, y: 0.002955121, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: coattail side right 1a
+      parentName: spine lower
+      position: {x: 0.0017242825, y: 0.0005281167, z: -0.0002539521}
+      rotation: {x: 0.9859703, y: 0.06527092, z: 0.08048146, w: -0.13086247}
+      scale: {x: 1.0000025, y: 1.0000633, z: 0.99993825}
+    - name: coattail side right 1b
+      parentName: coattail side right 1a
+      position: {x: 4.5634804e-10, y: 0.0011234046, z: -2.7939676e-10}
+      rotation: {x: -0.0000019073489, y: -0.0000017164276, z: 0.0000016689302, w: 1}
+      scale: {x: 1.0000019, y: 1.0000025, z: 1.0000048}
+    - name: coattail side right 1c
+      parentName: coattail side right 1b
+      position: {x: -1.2107193e-10, y: 0.0012820036, z: 1.11758706e-10}
+      rotation: {x: -0, y: -0.000000042840842, z: 0.000000022351685, w: 1}
+      scale: {x: 0.9999983, y: 1.0000008, z: 1.0000024}
+    - name: unused b r fs_jacket04a
+      parentName: coattail side right 1c
+      position: {x: 0.0000000043213366, y: 0.0019406492, z: 0.0000000027939677}
+      rotation: {x: 0.010192157, y: 0.06266484, z: -0.06473287, w: 0.99588096}
+      scale: {x: 0.9999734, y: 1.0000027, z: 1.0000398}
+    - name: unused b r fs_jacket05
+      parentName: unused b r fs_jacket04a
+      position: {x: -6.1467287e-10, y: 0.0013681506, z: -1.4901161e-10}
+      rotation: {x: 0.0041058967, y: 0.015271753, z: -0.015306784, w: 0.99975777}
+      scale: {x: 0.9999856, y: 1.000007, z: 1.0000168}
+    - name: unused b r fs_jacket06
+      parentName: unused b r fs_jacket05
+      position: {x: 3.5390257e-10, y: 0.0015385912, z: 2.2351741e-10}
+      rotation: {x: -0.005695421, y: 0.004229299, z: -0.0064519406, w: 0.9999541}
+      scale: {x: 0.999993, y: 1.0000402, z: 1.000034}
+    - name: unused b r fs_jacket06a
+      parentName: unused b r fs_jacket06
+      position: {x: -1.11758706e-10, y: 0.0028038688, z: 0}
+      rotation: {x: -0.0000000013969838, y: -0.0000000228174, z: 0.00000004495086, w: 1}
+      scale: {x: 1.0000023, y: 1.0000153, z: 1.000017}
+    - name: unused b r fs_jacket06a_end
+      parentName: unused b r fs_jacket06a
+      position: {x: -0, y: 0.0028038698, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: coattail back right 3a
+      parentName: spine lower
+      position: {x: 0.0009956565, y: 0.000744771, z: -0.0012811188}
+      rotation: {x: 0.9860756, y: 0.046146773, z: 0.056903847, w: -0.14928986}
+      scale: {x: 1.0000021, y: 1.0000869, z: 0.999953}
+    - name: coattail back right 3b
+      parentName: coattail back right 3a
+      position: {x: 9.313225e-11, y: 0.0011234216, z: 3.9115547e-10}
+      rotation: {x: -0.0000022798777, y: -0.0000023539178, z: 0.0000024437904, w: 1}
+      scale: {x: 1.0000011, y: 1.0000288, z: 1.000023}
+    - name: coattail back right 3c
+      parentName: coattail back right 3b
+      position: {x: -1.8626451e-11, y: 0.0012819981, z: -2.4214386e-10}
+      rotation: {x: 0.000000074505806, y: 0.000000012572627, z: 0.0000000111757625, w: 1}
+      scale: {x: 0.99999905, y: 0.9999918, z: 0.9999941}
+    - name: unused b r b_jacket04a
+      parentName: coattail back right 3c
+      position: {x: 0.0000000012107193, y: 0.0019406438, z: 0.0000000035390257}
+      rotation: {x: 0.060218837, y: 0.014756137, z: -0.009623758, w: 0.99802977}
+      scale: {x: 0.99999934, y: 0.99998593, z: 1.0000547}
+    - name: unused b r b_jacket05
+      parentName: unused b r b_jacket04a
+      position: {x: 1.4901161e-10, y: 0.0011798705, z: -9.313225e-11}
+      rotation: {x: 0.0069399327, y: -0.0054731164, z: 0.007790865, w: 0.9999307}
+      scale: {x: 0.9999973, y: 1.0000384, z: 1.0000358}
+    - name: unused b r b_jacket06
+      parentName: unused b r b_jacket05
+      position: {x: 1.11758706e-10, y: 0.0016946762, z: 0}
+      rotation: {x: 0.008942765, y: 0.011313845, z: -0.013075732, w: 0.9998105}
+      scale: {x: 0.99999845, y: 1.0000147, z: 1.0000199}
+    - name: unused b r b_jacket06a
+      parentName: unused b r b_jacket06
+      position: {x: 1.11758706e-10, y: 0.0029949683, z: 2.2351741e-10}
+      rotation: {x: -0, y: -0.000000007450581, z: 0.000000001899025, w: 1}
+      scale: {x: 0.99999845, y: 1.0000052, z: 1.0000113}
+    - name: unused b r b_jacket06a_end
+      parentName: unused b r b_jacket06a
+      position: {x: -0, y: 0.0029949688, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: coattail back left 3a
+      parentName: spine lower
+      position: {x: -0.0009956335, y: 0.00074478803, z: -0.0012811326}
+      rotation: {x: 0.9860761, y: -0.046150453, z: -0.05689067, w: -0.14929016}
+      scale: {x: 1, y: 1.000076, z: 0.9999369}
+    - name: coattail back left 3b
+      parentName: coattail back left 3a
+      position: {x: -5.5879353e-11, y: 0.0011234207, z: -1.3969838e-10}
+      rotation: {x: 0.00000019371512, y: -0.0000017229471, z: 0.000001728535, w: 1}
+      scale: {x: 0.999998, y: 1.0000064, z: 1.0000114}
+    - name: coattail back left 3c
+      parentName: coattail back left 3b
+      position: {x: 5.5879353e-11, y: 0.0012819968, z: 5.5879353e-11}
+      rotation: {x: -1.4210858e-14, y: -4.656614e-10, z: -0.0000000037252983, w: 1}
+      scale: {x: 1, y: 1.0000094, z: 1.0000111}
+    - name: unused b l b_jacket04a
+      parentName: coattail back left 3c
+      position: {x: 0.0000000028312206, y: 0.0019406413, z: -0.0000000041350723}
+      rotation: {x: 0.06009715, y: -0.015499114, z: 0.010452255, w: 0.9980175}
+      scale: {x: 0.99999774, y: 0.99997514, z: 1.0000467}
+    - name: unused b l b_jacket05
+      parentName: unused b l b_jacket04a
+      position: {x: -1.11758706e-10, y: 0.0011798957, z: -4.0978193e-10}
+      rotation: {x: 0.0071812426, y: 0.006627741, z: -0.009268799, w: 0.99990934}
+      scale: {x: 1.0000005, y: 1.0000204, z: 1.0000165}
+    - name: unused b l b_jacket06
+      parentName: unused b l b_jacket05
+      position: {x: -3.352761e-10, y: 0.0016946734, z: -3.1664968e-10}
+      rotation: {x: 0.008808779, y: -0.012112194, z: 0.014112584, w: 0.9997882}
+      scale: {x: 0.9999963, y: 1.0000125, z: 1.000022}
+    - name: unused b l b_jacket06a
+      parentName: unused b l b_jacket06
+      position: {x: -2.2351741e-10, y: 0.0029949688, z: -3.7252902e-11}
+      rotation: {x: 0.000000004656613, y: 0.0000000037252903, z: 0.0000000078143785, w: 1}
+      scale: {x: 1.0000014, y: 1.0000048, z: 1.0000045}
+    - name: unused b l b_jacket06a_end
+      parentName: unused b l b_jacket06a
+      position: {x: -0, y: 0.00299497, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine upper
+      parentName: spine lower
+      position: {x: 0.000000009948708, y: 0.0018871598, z: 0.00039304007}
+      rotation: {x: -0.023722501, y: -0.0000028500397, z: -0.0000037212137, w: 0.9997186}
+      scale: {x: 1, y: 0.99999046, z: 1.0000132}
+    - name: unused b b blur_sena01
+      parentName: spine upper
+      position: {x: 9.1078717e-10, y: 0.0028698405, z: -0.00029560743}
+      rotation: {x: -0.15285298, y: -0.0000001836868, z: -0.00000044253812, w: 0.98824894}
+      scale: {x: 1, y: 0.99990386, z: 1.0000929}
+    - name: unused b b blur_sena01_end
+      parentName: unused b b blur_sena01
+      position: {x: -0, y: 0.0009784658, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused h_m_bc1
+      parentName: spine upper
+      position: {x: 7.5880763e-10, y: 0.000751175, z: -0.0013055409}
+      rotation: {x: 0.91443515, y: -0.00000019511369, z: 0.0000009723185, w: -0.40473256}
+      scale: {x: 1, y: 1.0001708, z: 0.9998461}
+    - name: unused h_m_bc1_end
+      parentName: unused h_m_bc1
+      position: {x: -0, y: 0.0017637592, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused h_m_hr3
+      parentName: spine upper
+      position: {x: 0.0016573821, y: 0.0016587877, z: -0.00008539004}
+      rotation: {x: 0.53022295, y: 0.42420474, z: 0.5491425, w: -0.48719263}
+      scale: {x: 0.99998397, y: 1.000012, z: 1.0000347}
+    - name: unused h_m_hr3_end
+      parentName: unused h_m_hr3
+      position: {x: -0, y: 0.0016827543, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused h_c_bs1
+      parentName: spine upper
+      position: {x: -0.0000000010455399, y: 0.0012683603, z: 0.0006897678}
+      rotation: {x: 0.9208896, y: -0.00000015202308, z: 0.0000010367434, w: 0.38982353}
+      scale: {x: 1, y: 0.99983805, z: 1.0001647}
+    - name: unused h_c_bs1_end
+      parentName: unused h_c_bs1
+      position: {x: -0, y: 0.0009607218, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused root_mafu
+      parentName: spine upper
+      position: {x: -0.000000018175289, y: 0.0026748683, z: 0.00022309147}
+      rotation: {x: 0.9918625, y: -0.0000038272983, z: -0.0000036260228, w: -0.12731425}
+      scale: {x: 1, y: 1.0000777, z: 0.999923}
+    - name: unused rot_mafu
+      parentName: unused root_mafu
+      position: {x: 2.2737366e-14, y: 0.00010489965, z: -5.0446265e-11}
+      rotation: {x: 0.34808388, y: 0.00000790332, z: -0.0000105189265, w: 0.9374634}
+      scale: {x: 1, y: 0.99989593, z: 1.0001185}
+    - name: unused b s mafu01
+      parentName: unused rot_mafu
+      position: {x: 0.0000000053792277, y: 0.00052339066, z: -0.0004118539}
+      rotation: {x: -0.9604202, y: -0.0000047799876, z: -0.000008114511, w: -0.2785554}
+      scale: {x: 1, y: 0.999847, z: 1.0001732}
+    - name: unused b s mafu02
+      parentName: unused b s mafu01
+      position: {x: -1.9895197e-15, y: 0.0007785849, z: 2.2339941e-10}
+      rotation: {x: 0.8747328, y: -0.00001520682, z: -0.0000094958195, w: 0.48460567}
+      scale: {x: 1, y: 0.999056, z: 1.0009952}
+    - name: unused b r s_mafu01
+      parentName: unused b s mafu02
+      position: {x: 0.0009963536, y: 0.00019807018, z: -0.000114081915}
+      rotation: {x: -0.90708137, y: -0.052495558, z: 0.019339932, w: 0.4172212}
+      scale: {x: 0.9999994, y: 0.9995198, z: 1.0004896}
+    - name: unused b r s_mafu02
+      parentName: unused b r s_mafu01
+      position: {x: 7.916242e-11, y: 0.0012165138, z: 0}
+      rotation: {x: 0.00000011920929, y: -0.0000004656613, z: 0.000000018626451, w: 1}
+      scale: {x: 0.99999917, y: 1.0000017, z: 1.0000013}
+    - name: unused b r s_mafu02_end
+      parentName: unused b r s_mafu02
+      position: {x: -0, y: 0.0012165161, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b b_mafu01
+      parentName: unused b s mafu02
+      position: {x: 0.0000000034103151, y: -0.00052503764, z: 0.0005241808}
+      rotation: {x: -0.9252724, y: 0.000010680709, z: 0.000012034091, w: 0.3793032}
+      scale: {x: 1, y: 0.9995092, z: 1.0004982}
+    - name: unused b b_mafu02
+      parentName: unused b b_mafu01
+      position: {x: 2.4868995e-15, y: 0.0012165795, z: -9.312071e-11}
+      rotation: {x: -0.000000029802322, y: 1.12322596e-10, z: 1.8189894e-12, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000018}
+    - name: unused b b_mafu02_end
+      parentName: unused b b_mafu02
+      position: {x: -0, y: 0.00121658, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b l s_mafu01
+      parentName: unused b s mafu02
+      position: {x: -0.0009963614, y: 0.00019812956, z: -0.0001139874}
+      rotation: {x: -0.90708125, y: 0.052518986, z: -0.019317323, w: 0.41721964}
+      scale: {x: 0.9999995, y: 0.99951977, z: 1.0004857}
+    - name: unused b l s_mafu02
+      parentName: unused b l s_mafu01
+      position: {x: 4.6566126e-11, y: 0.0012165664, z: 2.7939677e-11}
+      rotation: {x: 0.000000029802315, y: 0.0000005420296, z: 0.000000040978183, w: 1}
+      scale: {x: 0.9999986, y: 0.9999995, z: 1.0000008}
+    - name: unused b l s_mafu02_end
+      parentName: unused b l s_mafu02
+      position: {x: -0, y: 0.0012165641, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b f mafu01
+      parentName: unused b s mafu02
+      position: {x: 0.000000004474377, y: 0.0010358756, z: -0.00029610802}
+      rotation: {x: -0.8309833, y: 0.000013459565, z: 0.000009384118, w: 0.5562974}
+      scale: {x: 1, y: 0.9996542, z: 1.000352}
+    - name: unused b f mafu02
+      parentName: unused b f mafu01
+      position: {x: 1.7230661e-15, y: 0.00071685924, z: -4.0979625e-10}
+      rotation: {x: 0.0028203719, y: 0.0000020792277, z: 0.0000015113734, w: 0.999996}
+      scale: {x: 1, y: 0.9999441, z: 1.0000495}
+    - name: unused b f mafu03
+      parentName: unused b f mafu02
+      position: {x: -1.08002494e-14, y: 0.00061610073, z: 6.704308e-10}
+      rotation: {x: -0.00000026798804, y: 9.094946e-13, z: -5.005773e-12, w: 1}
+      scale: {x: 1, y: 1.0000021, z: 1.0000013}
+    - name: unused b f mafu03_end
+      parentName: unused b f mafu03
+      position: {x: -0, y: 0.0006161028, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b r b_mafu01
+      parentName: unused rot_mafu
+      position: {x: 0.0013616022, y: 0.00021587165, z: 0.0002059378}
+      rotation: {x: 0.12740856, y: -0.0000035365758, z: 0.000010206998, w: 0.9918504}
+      scale: {x: 1, y: 1.0001117, z: 0.9999353}
+    - name: unused b r b_mafu02
+      parentName: unused b r b_mafu01
+      position: {x: 1.877197e-11, y: 0.0009441485, z: -0.0000000018376797}
+      rotation: {x: -0.3346424, y: 0.000002112563, z: -0.0000037045274, w: 0.94234526}
+      scale: {x: 1, y: 1.0004048, z: 0.9996538}
+    - name: unused b r b_mafu03
+      parentName: unused b r b_mafu02
+      position: {x: -8.985068e-11, y: 0.001985129, z: -4.7191404e-12}
+      rotation: {x: -0.05698403, y: -0.0000009976765, z: 0.00000118363, w: 0.9983752}
+      scale: {x: 1, y: 0.9997704, z: 1.0002745}
+    - name: unused b r b_mafu04
+      parentName: unused b r b_mafu03
+      position: {x: -3.6442237e-14, y: 0.0027377005, z: 1.4875462e-10}
+      rotation: {x: -0.016734997, y: 0.0000016160794, z: -0.0000019172874, w: 0.99986005}
+      scale: {x: 1, y: 1.0000069, z: 1.0000185}
+    - name: unused b r b_mafu05
+      parentName: unused b r b_mafu04
+      position: {x: -9.1027914e-11, y: 0.0026412543, z: 1.6600153e-10}
+      rotation: {x: 0.0037935167, y: -0.0000007621994, z: 0.00000088862157, w: 0.9999928}
+      scale: {x: 1, y: 1.000018, z: 1.0000148}
+    - name: unused b r b_mafu06
+      parentName: unused b r b_mafu05
+      position: {x: -2.608658e-11, y: 0.0025058554, z: -2.4091662e-12}
+      rotation: {x: -0.0000060482403, y: 0.000000009333232, z: -0.000000010799104, w: 1}
+      scale: {x: 1, y: 1.0000032, z: 1.0000048}
+    - name: unused b r b_mafu07
+      parentName: unused b r b_mafu06
+      position: {x: -7.9731985e-11, y: 0.0024064695, z: 2.3045458e-11}
+      rotation: {x: 0.000000029802315, y: -5.1159066e-13, z: 1.0822925e-12, w: 1}
+      scale: {x: 1, y: 1.0000037, z: 1.000004}
+    - name: unused b r b_mafu07_end
+      parentName: unused b r b_mafu07
+      position: {x: -0, y: 0.0024064716, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b l b_mafu01
+      parentName: unused rot_mafu
+      position: {x: -0.0013616077, y: 0.00021582855, z: 0.00020591576}
+      rotation: {x: 0.12740856, y: -0.0000023997982, z: 0.000007727483, w: 0.9918504}
+      scale: {x: 1, y: 1.0001117, z: 0.9999353}
+    - name: unused b l b_mafu02
+      parentName: unused b l b_mafu01
+      position: {x: -1.2249939e-10, y: 0.00094414933, z: -1.488964e-10}
+      rotation: {x: -0.3346424, y: 0.0000004902615, z: -0.0000015669077, w: 0.94234526}
+      scale: {x: 1, y: 1.0004048, z: 0.9996538}
+    - name: unused b l b_mafu03
+      parentName: unused b l b_mafu02
+      position: {x: -5.6510314e-11, y: 0.001985129, z: 7.698191e-11}
+      rotation: {x: -0.05698403, y: -0.0000010279156, z: 0.000001219496, w: 0.9983752}
+      scale: {x: 1, y: 0.9997696, z: 1.0002748}
+    - name: unused b l b_mafu04
+      parentName: unused b l b_mafu03
+      position: {x: -3.8823945e-14, y: 0.0027377, z: 4.472905e-10}
+      rotation: {x: -0.01673508, y: 0.00000079597805, z: -0.0000009443356, w: 0.99986}
+      scale: {x: 1, y: 0.9999969, z: 1.000008}
+    - name: unused b l b_mafu05
+      parentName: unused b l b_mafu04
+      position: {x: 5.5263738e-11, y: 0.0026412564, z: 2.506269e-11}
+      rotation: {x: 0.0037925849, y: 0.000000070423354, z: -0.000000073633835, w: 0.99999285}
+      scale: {x: 1, y: 1.0000037, z: 1.0000025}
+    - name: unused b l b_mafu06
+      parentName: unused b l b_mafu05
+      position: {x: 1.2300574e-10, y: 0.0025058547, z: 1.5136961e-10}
+      rotation: {x: -0.0000040009604, y: 0.0000009201909, z: -0.0000010634636, w: 1}
+      scale: {x: 1, y: 1.0000074, z: 1.0000077}
+    - name: unused b l b_mafu07
+      parentName: unused b l b_mafu06
+      position: {x: -1.844603e-10, y: 0.0024064698, z: 1.0416954e-10}
+      rotation: {x: -0, y: 3.1832304e-12, z: -6.3843787e-13, w: 1}
+      scale: {x: 1, y: 1.0000093, z: 1.0000095}
+    - name: unused b l b_mafu07_end
+      parentName: unused b l b_mafu07
+      position: {x: -0, y: 0.0024064723, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b f tai01
+      parentName: spine upper
+      position: {x: -0.0000000028992269, y: 0.0012616446, z: 0.0009461399}
+      rotation: {x: 0.9997524, y: -0.0000003214967, z: 0.0000009230047, w: 0.022251977}
+      scale: {x: 1, y: 0.99998736, z: 1.0000175}
+    - name: unused b f tai02
+      parentName: unused b f tai01
+      position: {x: -2.096101e-15, y: 0.001535608, z: 7.449492e-11}
+      rotation: {x: 0.0624661, y: 0.000001411679, z: -0.0000009983214, w: 0.9980471}
+      scale: {x: 1, y: 1.000061, z: 0.9999574}
+    - name: unused b f tai03
+      parentName: unused b f tai02
+      position: {x: -1.9895197e-15, y: 0.0018221202, z: -1.4903576e-10}
+      rotation: {x: 0.03358131, y: 0.00000006229505, z: 0.000000047667836, w: 0.999436}
+      scale: {x: 1, y: 1.0000179, z: 1.0000076}
+    - name: unused b f tai04
+      parentName: unused b f tai03
+      position: {x: -1.7053025e-15, y: 0.0015858782, z: 7.449882e-11}
+      rotation: {x: -0.0000000037252903, y: 4.405365e-13, z: -2.7222669e-13, w: 1}
+      scale: {x: 1, y: 1.000011, z: 1.0000122}
+    - name: unused b f tai04_end
+      parentName: unused b f tai04
+      position: {x: -0, y: 0.0015858787, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head neck lower
+      parentName: spine upper
+      position: {x: 6.3948843e-16, y: 0.0019370954, z: -3.7254122e-10}
+      rotation: {x: 0.39705786, y: 0.000008168394, z: 0.0000111060435, w: 0.9177936}
+      scale: {x: 1, y: 1.0001603, z: 0.9998362}
+    - name: arm right shoulder 1
+      parentName: head neck lower
+      position: {x: 0.00021082279, y: -0.00033045345, z: 0.0003038882}
+      rotation: {x: -0.6142751, y: -0.6234681, z: -0.33360592, w: 0.3502296}
+      scale: {x: 0.9995287, y: 1.0000051, z: 1.0004817}
+    - name: unused b r blur_kata01
+      parentName: arm right shoulder 1
+      position: {x: -0.000070147864, y: 0.0005772973, z: 0.0007175485}
+      rotation: {x: 0.29527304, y: 0.30911294, z: 0.8938036, w: 0.13556643}
+      scale: {x: 1.001154, y: 1.0001373, z: 0.998745}
+    - name: unused b r blur_kata01_end
+      parentName: unused b r blur_kata01
+      position: {x: -0, y: 0.0011731547, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right shoulder 2
+      parentName: arm right shoulder 1
+      position: {x: -4.0971598e-11, y: 0.001502767, z: -8.518592e-10}
+      rotation: {x: 0.014794887, y: 0.001352504, z: -0.0005087257, w: -0.99988955}
+      scale: {x: 1.000005, y: 1.0000081, z: 1.000022}
+    - name: unused h_m_hr2
+      parentName: arm right shoulder 2
+      position: {x: -0.000029894234, y: 0.0033605732, z: 0.000011270639}
+      rotation: {x: -0.095345765, y: -0.094285525, z: -0.36017635, w: -0.92319685}
+      scale: {x: 1.0002218, y: 1.0005566, z: 0.99920815}
+    - name: unused h_m_hr2_end
+      parentName: unused h_m_hr2
+      position: {x: -0, y: 0.000050000235, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone adjustment right elbow
+      parentName: arm right shoulder 2
+      position: {x: -0.0000033161305, y: 0.0033028522, z: -0.000009108842}
+      rotation: {x: -0.16146144, y: -0.16392441, z: 0.96875083, w: 0.09263296}
+      scale: {x: 0.99913317, y: 0.9999628, z: 1.0009135}
+    - name: unused b r hiji02
+      parentName: bone adjustment right elbow
+      position: {x: 0.00075720355, y: 0.00010087704, z: 0.00028089728}
+      rotation: {x: -0.23441888, y: -0.000090926886, z: 0.6316766, w: -0.7389401}
+      scale: {x: 1.0007099, y: 1.0027634, z: 0.99654716}
+    - name: unused b r hiji02_end
+      parentName: unused b r hiji02
+      position: {x: -0, y: 0.0008110692, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right sleeve
+      parentName: arm right shoulder 2
+      position: {x: -0.000033810324, y: 0.000071753966, z: 0.0000053357885}
+      rotation: {x: -0.0013498777, y: -0.0013594392, z: 0.00049210136, w: -0.99999803}
+      scale: {x: 1, y: 0.9999927, z: 0.9999822}
+    - name: unused b r hsode02
+      parentName: arm right sleeve
+      position: {x: -1.1111157e-10, y: 0.002222005, z: 9.023792e-11}
+      rotation: {x: -1.1641534e-10, y: -0, z: 3.637979e-11, w: 1}
+      scale: {x: 0.9999991, y: 0.9999992, z: 1.0000002}
+    - name: unused b r hsode02_end
+      parentName: unused b r hsode02
+      position: {x: -0, y: 0.002222005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b r upperarm_hojo01
+      parentName: arm right shoulder 2
+      position: {x: -0.0000108076965, y: 0.00020995531, z: 0.000007898716}
+      rotation: {x: -0.0013498777, y: -0.0013594392, z: 0.00049210136, w: -0.99999803}
+      scale: {x: 1, y: 0.9999927, z: 0.9999822}
+    - name: unused b r upperarm_hojo02
+      parentName: unused b r upperarm_hojo01
+      position: {x: -3.9123385e-11, y: 0.0017273296, z: 8.729203e-11}
+      rotation: {x: -1.1641534e-10, y: -0, z: 3.637979e-11, w: 1}
+      scale: {x: 0.9999991, y: 0.9999992, z: 1.0000002}
+    - name: unused b r upperarm_hojo02_end
+      parentName: unused b r upperarm_hojo02
+      position: {x: -0, y: 0.0017273298, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right elbow
+      parentName: arm right shoulder 2
+      position: {x: 0.0000033161987, y: 0.0033515464, z: 0.000009106595}
+      rotation: {x: -0.0010203747, y: -0.0010257184, z: 0.0035325685, w: 0.9999928}
+      scale: {x: 0.9999948, y: 1.000005, z: 1.0000138}
+    - name: arm right elbow adjustment
+      parentName: arm right elbow
+      position: {x: 6.0535965e-11, y: -4.924368e-10, z: -2.4039765e-10}
+      rotation: {x: -0.004780895, y: -0.0000011514802, z: -0.99998856, w: -0.00000019706576}
+      scale: {x: 1.0000356, y: 1.000017, z: 0.99996805}
+    - name: bone adjustment right forearm
+      parentName: arm right elbow adjustment
+      position: {x: -0.000015592785, y: -0.001624107, z: 0.000007840994}
+      rotation: {x: 0.0034098425, y: 0.001390854, z: 0.99998945, w: 0.0027726307}
+      scale: {x: 0.99998295, y: 0.99999857, z: 1.0000291}
+    - name: bone adjustment right forearm_end
+      parentName: bone adjustment right forearm
+      position: {x: -0, y: 0.0028166308, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b r blur_ude01
+      parentName: arm right elbow
+      position: {x: -0.00006525441, y: 0.0005875671, z: 0.00003881818}
+      rotation: {x: -0.035007466, y: -0.030026326, z: -0.9974367, w: -0.054707497}
+      scale: {x: 1.0002329, y: 1.0000025, z: 0.9997834}
+    - name: unused b r blur_ude01_end
+      parentName: unused b r blur_ude01
+      position: {x: -0, y: 0.00060964783, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right sleeve.001
+      parentName: arm right elbow
+      position: {x: -0.000031328873, y: 0.000329189, z: -0.00001537929}
+      rotation: {x: 0.004118347, y: 0.008827039, z: -0.99978745, w: -0.0181706}
+      scale: {x: 0.9999769, y: 1.000009, z: 1.0000188}
+    - name: unused b r sode02
+      parentName: arm right sleeve.001
+      position: {x: 0.000092640905, y: -0.003270368, z: -0.000041972846}
+      rotation: {x: -0.007889035, y: -0.0051373397, z: 0.9998935, w: -0.0111605255}
+      scale: {x: 1.0000734, y: 1.000004, z: 0.9999515}
+    - name: unused b r sode02_end
+      parentName: unused b r sode02
+      position: {x: -0, y: 0.004135603, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right wrist
+      parentName: arm right elbow
+      position: {x: 0.000031329015, y: 0.003248216, z: 0.000015379605}
+      rotation: {x: -0.01699132, y: -0.016902769, z: 0.008621051, w: -0.9996756}
+      scale: {x: 1.0001174, y: 1.0000212, z: 0.9998823}
+    - name: unused b r blur_te01
+      parentName: arm right wrist
+      position: {x: -0.000076644894, y: 0.000037394137, z: 0.0000323982}
+      rotation: {x: -0.009059182, y: 0.020194042, z: 0.99867845, w: 0.046384446}
+      scale: {x: 0.9999789, y: 1.000015, z: 1.0000473}
+    - name: unused b r blur_te01_end
+      parentName: unused b r blur_te01
+      position: {x: -0, y: 0.0008240386, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused h r hand_hojyo01
+      parentName: arm right wrist
+      position: {x: -0.00050263945, y: 0.00081037503, z: -0.000013574061}
+      rotation: {x: -0.020733599, y: 0.00071000215, z: 0.73888606, w: 0.6735111}
+      scale: {x: 0.99999, y: 0.99993837, z: 1.000076}
+    - name: unused h r hand_hojyo01_end
+      parentName: unused h r hand_hojyo01
+      position: {x: -0, y: 0.00050500006, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused h_motion_hand_r
+      parentName: arm right wrist
+      position: {x: 0.00001541513, y: 0.00091210165, z: -0.00020532483}
+      rotation: {x: -0.00000029988584, y: 0.02060505, z: 0.70369846, w: -0.71019995}
+      scale: {x: 0.9999951, y: 0.9999222, z: 1.000064}
+    - name: unused h_m_hr1
+      parentName: unused h_motion_hand_r
+      position: {x: -2.4658164e-10, y: -5.8609827e-12, z: -0.0000000014879059}
+      rotation: {x: 0.00000027498373, y: 0.10047878, z: 0.5765449, w: 0.8108638}
+      scale: {x: 1.000474, y: 0.9999088, z: 0.9996242}
+    - name: unused gun
+      parentName: unused h_m_hr1
+      position: {x: 3.352761e-10, y: 0.0010849206, z: -9.336508e-10}
+      rotation: {x: 0.000000014698896, y: 0.00000006705522, z: 0.000000091579224, w: 1}
+      scale: {x: 1.0000043, y: 1.0000026, z: 1.0000015}
+    - name: unused gun_end
+      parentName: unused gun
+      position: {x: -0, y: 0.0010849207, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 5a
+      parentName: arm right wrist
+      position: {x: -0.00039458156, y: 0.0010326753, z: 0.0000052087216}
+      rotation: {x: 0.024664354, y: 0.02493659, z: 0.001523882, w: -0.99938357}
+      scale: {x: 0.9998789, y: 1.0000054, z: 1.0001236}
+    - name: unused h r hand_hojyo02
+      parentName: arm right finger 5a
+      position: {x: -0.0001125986, y: 0.00012253612, z: -0.000017246006}
+      rotation: {x: 0.007296262, y: 0.027601449, z: -0.98144495, w: -0.18960698}
+      scale: {x: 0.99992365, y: 1.000015, z: 1.0000733}
+    - name: unused h r hand_hojyo02_end
+      parentName: unused h r hand_hojyo02
+      position: {x: -0, y: 0.00030286761, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 5b
+      parentName: arm right finger 5a
+      position: {x: 2.7939677e-11, y: 0.0004031653, z: 3.3760442e-10}
+      rotation: {x: 0.00060401484, y: 0.0006113611, z: 0.000018294202, w: 0.99999964}
+      scale: {x: 1.0000043, y: 1.0000031, z: 1.0000008}
+    - name: arm right finger 5c
+      parentName: arm right finger 5b
+      position: {x: 7.4505804e-11, y: 0.00021950694, z: -9.546056e-11}
+      rotation: {x: 0.000000115542214, y: 0.000000031606763, z: -0.00000009034466, w: 1}
+      scale: {x: 0.99999744, y: 0.99999714, z: 0.99998844}
+    - name: unused bip01 r finger4nub
+      parentName: arm right finger 5c
+      position: {x: -0.0000000036414711, y: 0.00022580958, z: -0.000000030680095}
+      rotation: {x: -0.0023491874, y: -0.0023839723, z: 0.00029390663, w: 0.9999944}
+      scale: {x: 1.0000049, y: 1.0000212, z: 1.0000407}
+    - name: unused bip01 r finger4nub_end
+      parentName: unused bip01 r finger4nub
+      position: {x: -0, y: 0.000049999824, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 4a
+      parentName: arm right wrist
+      position: {x: -0.00018098672, y: 0.0010613664, z: 0.000044660483}
+      rotation: {x: 0.025416164, y: 0.025851158, z: 0.006860605, w: -0.9993191}
+      scale: {x: 0.9998734, y: 1.0000079, z: 1.0001293}
+    - name: arm right finger 4b
+      parentName: arm right finger 4a
+      position: {x: 1.8626451e-11, y: 0.00044107405, z: 0.0000000012980308}
+      rotation: {x: -0.0007571931, y: -0.0007741953, z: -0.0000298114, w: 0.9999994}
+      scale: {x: 0.99999815, y: 1.0000013, z: 1.0000124}
+    - name: arm right finger 4c
+      parentName: arm right finger 4b
+      position: {x: -0, y: 0.000288557, z: -0.0000000014109537}
+      rotation: {x: 0.000000031723168, y: -0.000000011175868, z: -0.000000030182427, w: 1}
+      scale: {x: 1.0000079, y: 1.0000156, z: 1.0000156}
+    - name: unused bip01 r finger3nub
+      parentName: arm right finger 4c
+      position: {x: -0.00000015160069, y: 0.0003308912, z: 0.0000035431422}
+      rotation: {x: -0.041637428, y: -0.042519163, z: -0.0035614572, w: -0.99822134}
+      scale: {x: 1.000305, y: 1.0000356, z: 0.99968433}
+    - name: unused bip01 r finger3nub_end
+      parentName: unused bip01 r finger3nub
+      position: {x: -0, y: 0.000050000046, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 3a
+      parentName: arm right wrist
+      position: {x: 0.00009347034, y: 0.0010632367, z: 0.0000639053}
+      rotation: {x: 0.022621166, y: 0.023074614, z: 0.008383787, w: -0.99944264}
+      scale: {x: 0.99988747, y: 1.0000049, z: 1.0001141}
+    - name: arm right finger 3b
+      parentName: arm right finger 3a
+      position: {x: -5.5879353e-11, y: 0.00048027706, z: 5.84987e-10}
+      rotation: {x: -0.010063205, y: -0.010331143, z: 0.0001248194, w: 0.999896}
+      scale: {x: 0.9999324, y: 1.0000051, z: 1.0000833}
+    - name: arm right finger 3c
+      parentName: arm right finger 3b
+      position: {x: 1.11758706e-10, y: 0.00031537004, z: -0.0000000013550743}
+      rotation: {x: -0.00000010430813, y: 0.00000010430813, z: 0.000000032923708, w: 1}
+      scale: {x: 1.000007, y: 1.000009, z: 1.0000106}
+    - name: unused bip01 r finger2nub
+      parentName: arm right finger 3c
+      position: {x: -0.000000159638, y: 0.00035446996, z: -0.000007078333}
+      rotation: {x: -0.08885327, y: -0.09155233, z: 0.010228757, w: 0.9917755}
+      scale: {x: 0.99935836, y: 0.99992406, z: 1.0007463}
+    - name: unused bip01 r finger2nub_end
+      parentName: unused bip01 r finger2nub
+      position: {x: -0, y: 0.000050000184, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 2a
+      parentName: arm right wrist
+      position: {x: 0.00034226896, y: 0.0010218325, z: 0.00005993456}
+      rotation: {x: -0.015107198, y: 0.026356025, z: 0.363396, w: -0.93113935}
+      scale: {x: 0.9999335, y: 0.99997795, z: 1.0001036}
+    - name: arm right finger 2b
+      parentName: arm right finger 2a
+      position: {x: -3.7252902e-11, y: 0.00046818837, z: -0.0000000012756208}
+      rotation: {x: -0.0103952745, y: -0.010775947, z: -0.00048667582, w: 0.99988776}
+      scale: {x: 0.99993896, y: 1.0000122, z: 1.0000806}
+    - name: arm right finger 2c
+      parentName: arm right finger 2b
+      position: {x: 4.6566126e-11, y: 0.0002979626, z: 7.2293915e-10}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999961, y: 0.9999994, z: 0.9999943}
+    - name: unused bip01 r finger1nub
+      parentName: arm right finger 2c
+      position: {x: -0.00000028870068, y: 0.00033658516, z: 0.000008035122}
+      rotation: {x: -0.101425126, y: -0.10481408, z: -0.014446865, w: -0.98920083}
+      scale: {x: 1.0007584, y: 1.0000905, z: 0.9991765}
+    - name: unused bip01 r finger1nub_end
+      parentName: unused bip01 r finger1nub
+      position: {x: -0, y: 0.000050000253, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right finger 1a
+      parentName: arm right wrist
+      position: {x: 0.00013982909, y: 0.00010699202, z: -0.0001737073}
+      rotation: {x: 0.032678016, y: 0.227241, z: 0.099047996, w: -0.9682371}
+      scale: {x: 0.9990555, y: 1.0004063, z: 1.0005656}
+    - name: arm right finger 1b
+      parentName: arm right finger 1a
+      position: {x: -0.0000000012014061, y: 0.0008194362, z: 7.683411e-10}
+      rotation: {x: 0.011114439, y: 0.031432714, z: 0.028823497, w: 0.9990283}
+      scale: {x: 1.0020036, y: 0.9986447, z: 0.9993594}
+    - name: arm right finger 1c
+      parentName: arm right finger 1b
+      position: {x: -1.862645e-10, y: 0.00030897596, z: -3.655441e-10}
+      rotation: {x: -0.00000011920929, y: 0.00000017508864, z: -0.00000012922101, w: 1}
+      scale: {x: 0.9999962, y: 1.0000008, z: 0.9999937}
+    - name: unused bip01 r finger0nub
+      parentName: arm right finger 1c
+      position: {x: 0.000008491009, y: 0.00032607053, z: -0.000003039746}
+      rotation: {x: -0.08793862, y: -0.0297631, z: -0.22367348, w: 0.9702325}
+      scale: {x: 1.0024912, y: 0.997366, z: 1.0001401}
+    - name: unused bip01 r finger0nub_end
+      parentName: unused bip01 r finger0nub
+      position: {x: -0, y: 0.000050000053, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused bip01 r finger0nub dum
+      parentName: arm right finger 1c
+      position: {x: 0.000008152651, y: 0.00031334368, z: -0.0000029413168}
+      rotation: {x: -0.2574843, y: -0.14141525, z: -0.45677626, w: 0.839678}
+      scale: {x: 1.0016044, y: 0.9983168, z: 1.0001048}
+    - name: unused bip01 r finger0nub dum_end
+      parentName: unused bip01 r finger0nub dum
+      position: {x: -0, y: 0.000050000108, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left shoulder 1
+      parentName: head neck lower
+      position: {x: -0.0002108452, y: -0.00033044748, z: 0.00030387746}
+      rotation: {x: 0.87911534, y: -0.39619473, z: -0.21887717, w: -0.14926079}
+      scale: {x: 0.99966604, y: 0.99994504, z: 1.0003997}
+    - name: b kaban01
+      parentName: arm left shoulder 1
+      position: {x: 0.000015338212, y: 0.0018722507, z: 0.0009954019}
+      rotation: {x: -0.6699866, y: 0.2598814, z: 0.28703243, w: -0.6333972}
+      scale: {x: 1.0008322, y: 0.99998844, z: 0.99918735}
+    - name: unused b kaban01a
+      parentName: b kaban01
+      position: {x: 0.00041939257, y: 0.00046058267, z: -0.0025789517}
+      rotation: {x: 0.76035464, y: -0.02120574, z: 0.14999785, w: -0.63159466}
+      scale: {x: 0.999234, y: 1.0001191, z: 1.000667}
+    - name: unused b kaban01a_end
+      parentName: unused b kaban01a
+      position: {x: -0, y: 0.0026674198, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b kaban02
+      parentName: arm left shoulder 1
+      position: {x: 0.00033723802, y: 0.0021216304, z: -0.00023320704}
+      rotation: {x: -0.15268014, y: 0.26365113, z: -0.5188561, w: 0.7987272}
+      scale: {x: 1.0005249, y: 0.9986591, z: 1.000818}
+    - name: unused b kaban02a
+      parentName: b kaban02
+      position: {x: -0.00072778895, y: 0.00191597, z: 0.0012798139}
+      rotation: {x: -0.34114, y: 0.03803939, z: -0.17580824, w: -0.9226419}
+      scale: {x: 1.0012015, y: 1.0014572, z: 0.99736714}
+    - name: unused b kaban02a_end
+      parentName: unused b kaban02a
+      position: {x: -0, y: 0.0020772032, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b kaban03
+      parentName: arm left shoulder 1
+      position: {x: 0.0005344199, y: 0.0025996354, z: -0.0011628228}
+      rotation: {x: -0.3546036, y: 0.32333982, z: -0.37908792, w: 0.79120165}
+      scale: {x: 1.0006549, y: 0.9989602, z: 1.0004021}
+    - name: unused b kaban03a
+      parentName: b kaban03
+      position: {x: -0.00029656966, y: 0.0018483403, z: 0.0018719352}
+      rotation: {x: -0.6237575, y: 0.024811123, z: -0.07851366, w: -0.77726877}
+      scale: {x: 1.0005133, y: 1.0000216, z: 0.99947524}
+    - name: unused b kaban03a_end
+      parentName: unused b kaban03a
+      position: {x: -0, y: 0.0019383059, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b l blur_kata01
+      parentName: arm left shoulder 1
+      position: {x: -0.00047859695, y: 0.00011340141, z: 0.000781769}
+      rotation: {x: 0.0044635464, y: -0.08606349, z: 0.23911457, w: 0.96715945}
+      scale: {x: 0.9996076, y: 1.000737, z: 0.9996902}
+    - name: unused b l blur_kata02
+      parentName: unused b l blur_kata01
+      position: {x: -1.11758706e-10, y: 0.002258549, z: 0.0000000011734664}
+      rotation: {x: -0.000000045634806, y: -0.000000044703484, z: -0.000000047992216, w: 1}
+      scale: {x: 1.0000074, y: 1.0000081, z: 1.0000031}
+    - name: unused b l blur_kata02_end
+      parentName: unused b l blur_kata02
+      position: {x: -0, y: 0.0022585497, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left shoulder 2
+      parentName: arm left shoulder 1
+      position: {x: -0.000886997, y: 0.0011450127, z: 0.00040062738}
+      rotation: {x: 0.20674954, y: -0.20724924, z: 0.27464333, w: 0.91590035}
+      scale: {x: 1.0002197, y: 1.0006539, z: 0.9991365}
+    - name: unused h_m_hl2
+      parentName: arm left shoulder 2
+      position: {x: 0.000029886927, y: 0.0033605467, z: 0.000011249863}
+      rotation: {x: -0.0951587, y: 0.09413409, z: 0.3602752, w: -0.92319304}
+      scale: {x: 1.0018831, y: 0.9976544, z: 1.0004709}
+    - name: unused h_m_hl2_end
+      parentName: unused h_m_hl2
+      position: {x: -0, y: 0.000050000133, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone adjustment left elbow
+      parentName: arm left shoulder 2
+      position: {x: 0.0000033087579, y: 0.0033028265, z: -0.000009131453}
+      rotation: {x: -0.1617596, y: 0.16419911, z: -0.9686657, w: 0.092515774}
+      scale: {x: 0.9997348, y: 1.0001746, z: 1.0001009}
+    - name: unused b l hiji02
+      parentName: bone adjustment left elbow
+      position: {x: -0.0007570772, y: 0.00010052802, z: 0.00028135892}
+      rotation: {x: -0.23485333, y: 0.00009211151, z: -0.6317009, w: -0.7387814}
+      scale: {x: 0.9980301, y: 0.999868, z: 1.0021257}
+    - name: unused b l hiji02_end
+      parentName: unused b l hiji02
+      position: {x: -0, y: 0.0008110779, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left sleeve
+      parentName: arm left shoulder 2
+      position: {x: 0.00003380074, y: 0.00007174872, z: 0.0000053407052}
+      rotation: {x: 0.039182078, y: 0.0013820081, z: -0.0004362277, w: -0.99923104}
+      scale: {x: 0.9999928, y: 1.0000952, z: 0.99991965}
+    - name: unused b l hsode02
+      parentName: arm left sleeve
+      position: {x: -6.079259e-11, y: 0.0022220095, z: 0.0000000014704101}
+      rotation: {x: 0.000015959142, y: 0.00000020710283, z: -0.00000013327734, w: 1}
+      scale: {x: 0.99999833, y: 1.0000038, z: 1.0000029}
+    - name: unused b l hsode02_end
+      parentName: unused b l hsode02
+      position: {x: -0, y: 0.00222201, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b l upperarm_hojo01
+      parentName: arm left shoulder 2
+      position: {x: 0.000010803951, y: 0.0002099545, z: 0.0000079033125}
+      rotation: {x: 0.03011039, y: 0.0013780297, z: -0.00044943768, w: -0.9995456}
+      scale: {x: 1.0000037, y: 1.0000854, z: 0.999947}
+    - name: unused b l upperarm_hojo02
+      parentName: unused b l upperarm_hojo01
+      position: {x: -1.3243508e-11, y: 0.0017273298, z: 0.0000000014643943}
+      rotation: {x: 0.000021558255, y: 0.000000081257895, z: -0.000000045911293, w: 1}
+      scale: {x: 1.0000036, y: 1.0000088, z: 1.0000049}
+    - name: unused b l upperarm_hojo02_end
+      parentName: unused b l upperarm_hojo02
+      position: {x: -0, y: 0.0017273298, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left elbow
+      parentName: arm left shoulder 2
+      position: {x: -0.0000033087463, y: 0.0033515703, z: 0.000009134538}
+      rotation: {x: -0.0010388643, y: 0.0010281801, z: -0.00353105, w: 0.9999927}
+      scale: {x: 1.0000373, y: 0.9999758, z: 0.99999756}
+    - name: arm left elbow adjustment
+      parentName: arm left elbow
+      position: {x: 7.916242e-11, y: -1.740409e-10, z: -3.1897798e-10}
+      rotation: {x: -0.004793598, y: 0.0000057355637, z: 0.9999885, w: -0.00000022243566}
+      scale: {x: 0.9999805, y: 1.0000012, z: 1.0000145}
+    - name: bone adjustment left forearm
+      parentName: arm left elbow adjustment
+      position: {x: 0.000015583815, y: -0.0016241085, z: 0.000007861257}
+      rotation: {x: 0.0034189424, y: -0.0014213141, z: -0.9999893, w: 0.002770919}
+      scale: {x: 0.99999064, y: 1.0000132, z: 0.9999865}
+    - name: bone adjustment left forearm_end
+      parentName: bone adjustment left forearm
+      position: {x: -0, y: 0.002816632, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b l blur_ude01
+      parentName: arm left elbow
+      position: {x: 0.00006523913, y: 0.000587567, z: 0.000038777653}
+      rotation: {x: -0.034993447, y: 0.029940676, z: 0.99744034, w: -0.054697942}
+      scale: {x: 0.99943227, y: 1.0004803, z: 1.0000876}
+    - name: unused b l blur_ude01_end
+      parentName: unused b l blur_ude01
+      position: {x: -0, y: 0.00060964446, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left sleeve.001
+      parentName: arm left elbow
+      position: {x: 0.000031317126, y: 0.00032918996, z: -0.000015423615}
+      rotation: {x: 0.0041320818, y: -0.008833635, z: 0.9997875, w: -0.018164143}
+      scale: {x: 0.99988663, y: 1.0001307, z: 1.0000131}
+    - name: unused b l sode02
+      parentName: arm left sleeve.001
+      position: {x: -0.000092598995, y: -0.0032703166, z: -0.000042097534}
+      rotation: {x: 0.007913095, y: -0.005177282, z: 0.9998931, w: 0.011155863}
+      scale: {x: 1.0000705, y: 0.99992037, z: 1.0000293}
+    - name: unused b l sode02_end
+      parentName: unused b l sode02
+      position: {x: -0, y: 0.0041355533, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left wrist
+      parentName: arm left elbow
+      position: {x: -0.00003131704, y: 0.0032482152, z: 0.00001542138}
+      rotation: {x: -0.016958948, y: 0.016887235, z: -0.008618298, w: -0.99967647}
+      scale: {x: 0.99987495, y: 1.000043, z: 1.0001072}
+    - name: unused b l blur_te01
+      parentName: arm left wrist
+      position: {x: 0.00007661665, y: 0.0000373414, z: 0.000032356624}
+      rotation: {x: -0.009041647, y: -0.020165322, z: -0.99867994, w: 0.046367798}
+      scale: {x: 0.99967295, y: 1.0003861, z: 0.9999579}
+    - name: unused b l blur_te01_end
+      parentName: unused b l blur_te01
+      position: {x: -0, y: 0.00082403596, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused h l hand_hojyo01
+      parentName: arm left wrist
+      position: {x: 0.00050261145, y: 0.00081032387, z: -0.000013513346}
+      rotation: {x: -0.020673145, y: -0.00073462434, z: -0.7388891, w: 0.6735096}
+      scale: {x: 0.99963623, y: 1.0004218, z: 0.9999427}
+    - name: unused h l hand_hojyo01_end
+      parentName: unused h l hand_hojyo01
+      position: {x: -0, y: 0.00050497055, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused h_motion_hand_l
+      parentName: arm left wrist
+      position: {x: -0.00001544591, y: 0.00091205974, z: -0.00020533211}
+      rotation: {x: 0.0000021131707, y: 0.020571975, z: 0.70369816, w: 0.7102012}
+      scale: {x: 0.9999695, y: 1.0000732, z: 0.99993}
+    - name: unused h_m_hl1
+      parentName: unused h_motion_hand_l
+      position: {x: 1.6863788e-10, y: -8.302692e-13, z: -3.6452084e-11}
+      rotation: {x: -0.0000000052914397, y: 0.000000005587935, z: -0.000000013669775, w: 1}
+      scale: {x: 1.0000017, y: 0.9999919, z: 0.9999972}
+    - name: unused h_m_hl1_end
+      parentName: unused h_m_hl1
+      position: {x: -0, y: 0.000050000024, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 5a
+      parentName: arm left wrist
+      position: {x: 0.00039457658, y: 0.0010326225, z: 0.0000052223354}
+      rotation: {x: 0.024577394, y: -0.024850406, z: -0.001529426, w: -0.99938786}
+      scale: {x: 1.0000653, y: 1.0000337, z: 0.9998941}
+    - name: unused h l hand_hojyo02
+      parentName: arm left finger 5a
+      position: {x: 0.00011257253, y: 0.000122581, z: -0.000017225591}
+      rotation: {x: 0.007371952, y: -0.02755411, z: 0.98145324, w: -0.1895682}
+      scale: {x: 0.9986254, y: 1.0013585, z: 1.0000381}
+    - name: unused h l hand_hojyo02_end
+      parentName: unused h l hand_hojyo02
+      position: {x: -0, y: 0.00030286, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 5b
+      parentName: arm left finger 5a
+      position: {x: -2.7939677e-11, y: 0.00040321352, z: 2.0954757e-11}
+      rotation: {x: 0.00042494945, y: -0.00042950362, z: -0.000036996324, w: 0.9999998}
+      scale: {x: 0.99998987, y: 0.9999969, z: 0.9999944}
+    - name: arm left finger 5c
+      parentName: arm left finger 5b
+      position: {x: -5.5879353e-11, y: 0.00021945848, z: -0.0000000021699815}
+      rotation: {x: -0.000000132306, y: 0.000000076368444, z: -0.000000051950117, w: 1}
+      scale: {x: 1.0000157, y: 1.0000091, z: 1.0000148}
+    - name: unused bip01 l finger4nub
+      parentName: arm left finger 5c
+      position: {x: -0.0000000062957404, y: 0.0002258592, z: 0.000000022924505}
+      rotation: {x: 0.0018528765, y: -0.0018866599, z: 0.00048700767, w: 0.99999636}
+      scale: {x: 0.99999624, y: 1.0000107, z: 1.0000212}
+    - name: unused bip01 l finger4nub_end
+      parentName: unused bip01 l finger4nub
+      position: {x: -0, y: 0.00004999975, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 4a
+      parentName: arm left wrist
+      position: {x: 0.00018098667, y: 0.0010613146, z: 0.000044716802}
+      rotation: {x: -0.02544923, y: 0.025885226, z: 0.006856885, w: 0.9993174}
+      scale: {x: 1.0000284, y: 1.0000772, z: 0.9998883}
+    - name: arm left finger 4b
+      parentName: arm left finger 4a
+      position: {x: -1.11758706e-10, y: 0.00044112498, z: -0.00000000115484}
+      rotation: {x: 0.0007036477, y: -0.0007195863, z: -0.000034529305, w: -0.9999996}
+      scale: {x: 1.0000085, y: 1.0000112, z: 1.000001}
+    - name: arm left finger 4c
+      parentName: arm left finger 4b
+      position: {x: 3.7252902e-11, y: 0.00028850677, z: -8.288771e-10}
+      rotation: {x: -0, y: -0, z: 1.4210851e-12, w: 1}
+      scale: {x: 1.0000017, y: 1.0000095, z: 0.99999976}
+    - name: unused bip01 l finger3nub
+      parentName: arm left finger 4c
+      position: {x: 0.00000014783814, y: 0.00033089108, z: 0.0000035449955}
+      rotation: {x: -0.041604884, y: 0.04248713, z: 0.0035121501, w: -0.99822426}
+      scale: {x: 0.99989206, y: 0.99986637, z: 1.0002816}
+    - name: unused bip01 l finger3nub_end
+      parentName: unused bip01 l finger3nub
+      position: {x: -0, y: 0.00004999992, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 3a
+      parentName: arm left wrist
+      position: {x: -0.00009347267, y: 0.0010631826, z: 0.00006389931}
+      rotation: {x: -0.022598516, y: 0.02305148, z: 0.008381308, w: 0.9994437}
+      scale: {x: 1.0000107, y: 1.0000914, z: 0.99990416}
+    - name: arm left finger 3b
+      parentName: arm left finger 3a
+      position: {x: 3.7252902e-11, y: 0.00048032688, z: 0.0000000028440263}
+      rotation: {x: 0.010062396, y: -0.010332101, z: 0.00012312019, w: -0.99989605}
+      scale: {x: 1.0000523, y: 1.0000379, z: 0.9999433}
+    - name: arm left finger 3c
+      parentName: arm left finger 3b
+      position: {x: 7.4505804e-11, y: 0.00031536925, z: -3.9581208e-10}
+      rotation: {x: 0.00000016111876, y: -0.0000001667067, z: -0.00000002461456, w: 1}
+      scale: {x: 1.0000035, y: 1.0000086, z: 1.0000023}
+    - name: unused bip01 l finger2nub
+      parentName: arm left finger 3c
+      position: {x: 0.00000015974976, y: 0.00035447098, z: -0.0000070785636}
+      rotation: {x: -0.08885218, y: 0.091552004, z: -0.010229658, w: 0.99177563}
+      scale: {x: 1.0005192, y: 1.0003183, z: 0.9991787}
+    - name: unused bip01 l finger2nub_end
+      parentName: unused bip01 l finger2nub
+      position: {x: -0, y: 0.00005000018, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 2a
+      parentName: arm left wrist
+      position: {x: -0.00034227318, y: 0.0010217793, z: 0.00005991566}
+      rotation: {x: 0.015094915, y: 0.026225235, z: 0.36337897, w: 0.93114984}
+      scale: {x: 1.0000032, y: 1.0000588, z: 0.9999052}
+    - name: arm left finger 2b
+      parentName: arm left finger 2a
+      position: {x: -3.7252902e-11, y: 0.00046818797, z: 5.4686095e-10}
+      rotation: {x: -0.010528511, y: 0.010915919, z: 0.0004766336, w: 0.9998849}
+      scale: {x: 1.0000417, y: 1.0000416, z: 0.99993616}
+    - name: arm left finger 2c
+      parentName: arm left finger 2b
+      position: {x: 2.7939677e-11, y: 0.00029801333, z: -0.000000001686858}
+      rotation: {x: 0.00000012852249, y: -0.00000008009372, z: 0.00000016868576, w: 1}
+      scale: {x: 1.0000111, y: 1.0000042, z: 1.0000125}
+    - name: unused bip01 l finger1nub
+      parentName: arm left finger 2c
+      position: {x: 0.00000027964822, y: 0.00033658362, z: 0.000008088396}
+      rotation: {x: 0.10223484, y: -0.10564708, z: -0.014507526, w: 0.9890279}
+      scale: {x: 0.99979913, y: 0.9996268, z: 1.0005807}
+    - name: unused bip01 l finger1nub_end
+      parentName: unused bip01 l finger1nub
+      position: {x: -0, y: 0.000050000064, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left finger 1a
+      parentName: arm left wrist
+      position: {x: -0.00013981806, y: 0.00010694903, z: -0.00017375704}
+      rotation: {x: -0.03279166, y: 0.22718707, z: 0.098973066, w: 0.9682537}
+      scale: {x: 0.999386, y: 1.0016861, z: 0.9988808}
+    - name: arm left finger 1b
+      parentName: arm left finger 1a
+      position: {x: 7.4505804e-11, y: 0.0008194775, z: -1.3038516e-10}
+      rotation: {x: -0.011316595, y: 0.03136728, z: 0.029100211, w: -0.99902016}
+      scale: {x: 1.0020068, y: 0.9966142, z: 1.0013714}
+    - name: arm left finger 1c
+      parentName: arm left finger 1b
+      position: {x: -6.414484e-10, y: 0.00030892735, z: -0.0000000011804513}
+      rotation: {x: 0.00000008195639, y: -0.0000000949949, z: 0.00000012968667, w: 1}
+      scale: {x: 0.99999946, y: 0.9999973, z: 1.0000073}
+    - name: unused bip01 l finger0nub
+      parentName: arm left finger 1c
+      position: {x: -0.000008491443, y: 0.00032607166, z: -0.0000030275712}
+      rotation: {x: 0.087237224, y: -0.029142717, z: -0.22325101, w: -0.97041196}
+      scale: {x: 1.0056428, y: 0.9940725, z: 1.0003148}
+    - name: unused bip01 l finger0nub_end
+      parentName: unused bip01 l finger0nub
+      position: {x: -0, y: 0.000050000082, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused bip01 l finger0nub dum
+      parentName: arm left finger 1c
+      position: {x: -0.000008164942, y: 0.0003133319, z: -0.0000028840045}
+      rotation: {x: 0.24676763, y: -0.12917475, z: -0.46089092, w: -0.8426145}
+      scale: {x: 1.0060391, y: 0.9930808, z: 1.0009265}
+    - name: unused bip01 l finger0nub dum_end
+      parentName: unused bip01 l finger0nub dum
+      position: {x: -0, y: 0.00005000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: collar 1
+      parentName: head neck lower
+      position: {x: 1.2562168e-10, y: 0.0001543042, z: -0.00008683376}
+      rotation: {x: 0.6242622, y: 0.000009633242, z: 0.000015688049, w: 0.7812149}
+      scale: {x: 1, y: 0.99978024, z: 1.000239}
+    - name: jacket collar left
+      parentName: collar 1
+      position: {x: -0.0004479477, y: 0.0006156238, z: -0.000000024410086}
+      rotation: {x: -0.696981, y: 0.6969809, z: -0.119256735, w: -0.11921805}
+      scale: {x: 0.99928683, y: 1, z: 1.0007074}
+    - name: unused b l eri02
+      parentName: jacket collar left
+      position: {x: -0.0002337011, y: 0.00009359646, z: 0.0008832991}
+      rotation: {x: 0.51642716, y: -0.51642674, z: -0.6435019, w: 0.22915465}
+      scale: {x: 1.0009652, y: 0.9986727, z: 1.000378}
+    - name: unused b l eri02_end
+      parentName: unused b l eri02
+      position: {x: -0, y: 0.0009800002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jacket collar right
+      parentName: collar 1
+      position: {x: 0.0004479478, y: 0.00061563205, z: 0.000000023947923}
+      rotation: {x: -0.696981, y: -0.69698083, z: 0.1192181, w: -0.11925693}
+      scale: {x: 0.99928695, y: 1.0000001, z: 1.0007007}
+    - name: unused b r eri02
+      parentName: jacket collar right
+      position: {x: 0.00023370271, y: 0.000093592964, z: 0.0008832991}
+      rotation: {x: 0.51642674, y: 0.5164262, z: 0.64350337, w: 0.22915247}
+      scale: {x: 1.000967, y: 0.9986671, z: 1.000376}
+    - name: unused b r eri02_end
+      parentName: unused b r eri02
+      position: {x: -0, y: 0.0009800019, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: collar 2
+      parentName: collar 1
+      position: {x: 0.00000007046263, y: -0.00021619133, z: -0.0012524076}
+      rotation: {x: -0.88126695, y: -0.000014825728, z: -0.00002193689, w: 0.47261885}
+      scale: {x: 1, y: 1.001033, z: 0.9989559}
+    - name: collar 2_end
+      parentName: collar 2
+      position: {x: -0, y: 0.001503479, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head neck upper
+      parentName: head neck lower
+      position: {x: 0.000000022270532, y: 0.0009348502, z: -0.0005209374}
+      rotation: {x: -0.27716947, y: -0.000008617415, z: -0.000009363384, w: 0.9608211}
+      scale: {x: 1, y: 1.0004797, z: 0.99952257}
+    - name: unused b s blur_face01
+      parentName: head neck upper
+      position: {x: -0.0000000019018216, y: -0.000057256537, z: 0.0006441656}
+      rotation: {x: 0.9615271, y: -0.00000010515441, z: 0.0000024707244, w: 0.27471006}
+      scale: {x: 1, y: 1.0014294, z: 0.9985787}
+    - name: unused b s blur_face01_end
+      parentName: unused b s blur_face01
+      position: {x: -0, y: 0.0012193585, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b s blur_head01
+      parentName: head neck upper
+      position: {x: 0.000000001486521, y: 0.00031530828, z: -0.00040216494}
+      rotation: {x: 0.9630458, y: 0.00000021410233, z: 0.0000027941824, w: -0.26933795}
+      scale: {x: 1, y: 0.99860334, z: 1.0014217}
+    - name: unused b s blur_head01_end
+      parentName: unused b s blur_head01
+      position: {x: -0, y: 0.00077522814, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused h_b_bd1
+      parentName: head neck upper
+      position: {x: 0.00000000542754, y: 0.0035081606, z: 0.00009473955}
+      rotation: {x: 0.018712582, y: -0.0000011430976, z: -0.0000010934281, w: 0.9998249}
+      scale: {x: 1, y: 0.9998864, z: 1.0001218}
+    - name: unused h_b_bd1_end
+      parentName: unused h_b_bd1
+      position: {x: -0, y: 0.0025318717, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused h_c_us1
+      parentName: head neck upper
+      position: {x: -0.0000000025782252, y: 0.00042319886, z: 0.00037992894}
+      rotation: {x: 0.95527714, y: -0.0000017593375, z: 0.0000007991355, w: 0.29571193}
+      scale: {x: 1, y: 1.0014839, z: 0.9985212}
+    - name: unused h_c_us1_end
+      parentName: unused h_c_us1
+      position: {x: -0, y: 0.00067247206, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root head
+      parentName: head neck upper
+      position: {x: -0.000000007801349, y: 0.00038358854, z: 0.00015059253}
+      rotation: {x: 0.99231553, y: -0.0000069447196, z: -0.000004289068, w: 0.123733014}
+      scale: {x: 1, y: 1.0007619, z: 0.999248}
+    - name: unused lookat
+      parentName: root head
+      position: {x: -0.000000072072744, y: 0.0014015345, z: -0.0075665126}
+      rotation: {x: -0.6694701, y: -0.0000013117275, z: 0.000007559024, w: 0.74283904}
+      scale: {x: 1, y: 1.0008044, z: 0.99919784}
+    - name: unused lookat_end
+      parentName: unused lookat
+      position: {x: -0, y: 0.007607463, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair root
+      parentName: root head
+      position: {x: 6.252776e-15, y: -4.4680074e-10, z: -1.4871068e-10}
+      rotation: {x: -0.9898731, y: 0.010983748, z: -0.008535138, w: 0.14127207}
+      scale: {x: 1.0000067, y: 0.99790996, z: 1.0020884}
+    - name: hair right 7
+      parentName: hair root
+      position: {x: 0.00088838633, y: 0.0003854496, z: -0.00037584692}
+      rotation: {x: 0.8965953, y: 0.2663641, z: 0.27453235, w: -0.22315697}
+      scale: {x: 1.0007159, y: 1.0011784, z: 0.9981411}
+    - name: hair right 8
+      parentName: hair right 7
+      position: {x: -0.00039740975, y: 0.0008424035, z: -0.0006623889}
+      rotation: {x: -0.20536254, y: 0.40570435, z: -0.8810107, w: -0.13057704}
+      scale: {x: 0.99620974, y: 0.99887544, z: 1.0049571}
+    - name: hair right 8_end
+      parentName: hair right 8
+      position: {x: -0, y: 0.0010017555, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair left 7
+      parentName: hair root
+      position: {x: -0.00081883796, y: 0.0004184474, z: -0.00041002635}
+      rotation: {x: 0.910417, y: -0.2587395, z: -0.23222892, w: -0.22419736}
+      scale: {x: 1.0011821, y: 1.0007298, z: 0.9981195}
+    - name: hair left 8
+      parentName: hair left 7
+      position: {x: 0.00037985263, y: 0.0008748925, z: -0.0006271328}
+      rotation: {x: 0.2005395, y: 0.42523736, z: -0.8713848, w: 0.14016299}
+      scale: {x: 0.9964017, y: 0.99871975, z: 1.0049292}
+    - name: hair left 8_end
+      parentName: hair left 8
+      position: {x: -0, y: 0.00091569143, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair front 1
+      parentName: hair root
+      position: {x: -0.0004154006, y: 0.0016468107, z: 0.0009269987}
+      rotation: {x: 0.014497668, y: 0.68055874, z: 0.65741277, w: 0.32316893}
+      scale: {x: 0.99924386, y: 1.0007131, z: 1.000081}
+    - name: hair front 2
+      parentName: hair front 1
+      position: {x: -0.0009481709, y: -0.000056342946, z: -0.0006327056}
+      rotation: {x: 0.28106612, y: -0.30907246, z: 0.8747317, w: 0.24560237}
+      scale: {x: 0.9971131, y: 1.0057325, z: 0.9971962}
+    - name: hair front 2_end
+      parentName: hair front 2
+      position: {x: -0, y: 0.0015713515, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair right 5
+      parentName: hair root
+      position: {x: 0.00089653226, y: 0.001720395, z: 0.0005112061}
+      rotation: {x: -0.23183596, y: -0.604154, z: -0.58784086, w: 0.48548254}
+      scale: {x: 0.9989414, y: 1.0002292, z: 1.0008774}
+    - name: hair right 6
+      parentName: hair right 5
+      position: {x: -0.0010908783, y: -0.000038499533, z: -0.000097506825}
+      rotation: {x: -0.1860746, y: 0.043493625, z: 0.90467006, w: 0.3808629}
+      scale: {x: 1.001587, y: 0.9967714, z: 1.0016589}
+    - name: hair right 6_end
+      parentName: hair right 6
+      position: {x: -0, y: 0.0015466919, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair right 3
+      parentName: hair root
+      position: {x: 0.0008760192, y: 0.0017785145, z: -0.000439179}
+      rotation: {x: -0.48813972, y: -0.36185324, z: -0.35883695, w: 0.7085323}
+      scale: {x: 0.9992965, y: 0.99948263, z: 1.0012299}
+    - name: hair right 4
+      parentName: hair right 3
+      position: {x: -0.0000047051535, y: 0.0001694002, z: -0.0010827128}
+      rotation: {x: 0.6844738, y: 0.28252292, z: -0.5827545, w: -0.33477408}
+      scale: {x: 0.9995349, y: 1.001465, z: 0.9990433}
+    - name: hair right 4_end
+      parentName: hair right 4
+      position: {x: -0, y: 0.0013747495, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair right 1
+      parentName: hair root
+      position: {x: 0.0008964527, y: 0.001548596, z: 0.000344295}
+      rotation: {x: 0.38362044, y: 0.58889383, z: 0.5760412, w: -0.41739178}
+      scale: {x: 0.9999889, y: 0.9999423, z: 1.0000864}
+    - name: hair right 2
+      parentName: hair right 1
+      position: {x: -0.000023400466, y: 0.00031141884, z: -0.001099488}
+      rotation: {x: -0.35498282, y: -0.44794774, z: 0.79266477, w: 0.21216205}
+      scale: {x: 1.0026733, y: 1.0007529, z: 0.9966264}
+    - name: hair right 2_end
+      parentName: hair right 2
+      position: {x: -0, y: 0.0012773257, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair left 1
+      parentName: hair root
+      position: {x: -0.00081077154, y: 0.0015815939, z: 0.00031011546}
+      rotation: {x: -0.36851, y: 0.5951309, z: 0.5675197, w: 0.4335216}
+      scale: {x: 0.9996868, y: 1.0002966, z: 1.0000489}
+    - name: hair left 2
+      parentName: hair left 1
+      position: {x: 0.000040154588, y: 0.0002544393, z: -0.0011120845}
+      rotation: {x: 0.35218215, y: -0.4554491, z: 0.78634256, w: -0.22405186}
+      scale: {x: 1.0018632, y: 1.0013427, z: 0.99680597}
+    - name: hair left 2_end
+      parentName: hair left 2
+      position: {x: -0, y: 0.001272274, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair left 3
+      parentName: hair root
+      position: {x: -0.000753322, y: 0.0017405302, z: -0.00046958204}
+      rotation: {x: -0.5176818, y: 0.34661132, z: 0.32467034, w: 0.71165675}
+      scale: {x: 0.99973184, y: 0.99938446, z: 1.0008929}
+    - name: hair left 4
+      parentName: hair left 3
+      position: {x: -0.00000022128224, y: 0.00022910968, z: -0.0010716947}
+      rotation: {x: 0.690781, y: -0.29574206, z: 0.5413603, w: -0.37720996}
+      scale: {x: 0.999948, y: 1.0015662, z: 0.9985109}
+    - name: hair left 4_end
+      parentName: hair left 4
+      position: {x: -0, y: 0.0012737914, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair left 5
+      parentName: hair root
+      position: {x: -0.00080010487, y: 0.001825485, z: 0.000531492}
+      rotation: {x: -0.13594711, y: 0.592857, z: 0.56982094, w: 0.55257857}
+      scale: {x: 0.99827003, y: 1.0010173, z: 1.0007194}
+    - name: hair left 6
+      parentName: hair left 5
+      position: {x: 0.0010915798, y: -0.00012966066, z: -0.00030765144}
+      rotation: {x: -0.29890645, y: -0.020776989, z: -0.87482405, w: 0.38066536}
+      scale: {x: 0.99969196, y: 0.9958818, z: 1.0044641}
+    - name: hair left 6_end
+      parentName: hair left 6
+      position: {x: -0, y: 0.0016089287, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair back 1
+      parentName: hair root
+      position: {x: 0.000057348865, y: 0.0019873695, z: -0.0010508519}
+      rotation: {x: -0.5406796, y: -0.0118334945, z: -0.02188109, w: 0.8408608}
+      scale: {x: 0.99999106, y: 0.9982979, z: 1.0017221}
+    - name: hair back 2
+      parentName: hair back 1
+      position: {x: -0.00000916321, y: 0.00006810169, z: -0.0013736386}
+      rotation: {x: 0.90005994, y: 0.006517068, z: -0.019481802, w: -0.43528166}
+      scale: {x: 1.0000463, y: 1.0036577, z: 0.9963435}
+    - name: hair back 2_end
+      parentName: hair back 2
+      position: {x: -0, y: 0.0017525088, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair forward 7
+      parentName: hair root
+      position: {x: -0.00015496458, y: 0.0022208206, z: -0.00024619242}
+      rotation: {x: -0.17198153, y: 0.09317869, z: 0.08664585, w: 0.97684824}
+      scale: {x: 0.999867, y: 0.9987321, z: 1.001406}
+    - name: hair forward 8
+      parentName: hair forward 7
+      position: {x: 0.00090005074, y: 0.00034543325, z: 0.00061086385}
+      rotation: {x: 0.34655744, y: 0.48351967, z: 0.74939066, w: -0.2907239}
+      scale: {x: 0.997475, y: 0.9992147, z: 1.0033321}
+    - name: hair forward 8_end
+      parentName: hair forward 8
+      position: {x: -0, y: 0.0011675842, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair forward 5
+      parentName: hair root
+      position: {x: 0.00003973978, y: 0.0021752415, z: 0.00028535488}
+      rotation: {x: 0.19914357, y: -0.04173127, z: -0.03644409, w: 0.97840285}
+      scale: {x: 0.9999944, y: 1.0016103, z: 0.998404}
+    - name: hair forward 6
+      parentName: hair forward 5
+      position: {x: 0.0007272236, y: 0.0008668421, z: 0.00014935936}
+      rotation: {x: 0.49051127, y: 0.6788246, z: 0.40814948, w: -0.36333168}
+      scale: {x: 0.99820185, y: 0.99921966, z: 1.0026157}
+    - name: hair forward 6_end
+      parentName: hair forward 6
+      position: {x: -0, y: 0.0007555338, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair forward 3
+      parentName: hair root
+      position: {x: 0.00008475199, y: 0.0019502265, z: 0.0007640682}
+      rotation: {x: 0.478498, y: -0.16252773, z: -0.14768073, w: 0.8501852}
+      scale: {x: 0.9999035, y: 1.0019047, z: 0.99820703}
+    - name: hair forward 4
+      parentName: hair forward 3
+      position: {x: 0.0011036252, y: 0.00023404146, z: 0.0001725469}
+      rotation: {x: 0.8650703, y: 0.48493242, z: -0.06256649, w: 0.11215863}
+      scale: {x: 0.99942344, y: 1.0037771, z: 0.9968716}
+    - name: hair forward 4_end
+      parentName: hair forward 4
+      position: {x: -0, y: 0.0012937625, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair back 3
+      parentName: hair root
+      position: {x: 0.000014169625, y: 0.00013538744, z: -0.00068185246}
+      rotation: {x: 0.9733567, y: 0.0002689846, z: 0.019081082, w: -0.22850062}
+      scale: {x: 0.9999882, y: 1.0018395, z: 0.99821705}
+    - name: hair back 4
+      parentName: hair back 3
+      position: {x: -0.000022960601, y: 0.0013702692, z: -0.00011575792}
+      rotation: {x: -0.9180373, y: 0.13718648, z: -0.24876018, w: 0.27659693}
+      scale: {x: 1.0011611, y: 0.9962599, z: 1.0026126}
+    - name: hair back 4_end
+      parentName: hair back 4
+      position: {x: -0, y: 0.00020092943, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused c0001_hair
+      parentName: root head
+      position: {x: 0.00000004066908, y: 0.002706578, z: 0.0002151183}
+      rotation: {x: 0.051179826, y: 0.000011066085, z: -0.000009108671, w: 0.9986895}
+      scale: {x: 1, y: 0.999206, z: 1.00079}
+    - name: unused c0001_hair_end
+      parentName: unused c0001_hair
+      position: {x: -0, y: 0.002104354, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused mask root
+      parentName: root head
+      position: {x: -0.000000011149238, y: -0.00024280515, z: -0.00118522}
+      rotation: {x: -0.89037037, y: -0.0000002720185, z: 0.000008907664, w: 0.45523685}
+      scale: {x: 1, y: 0.9963095, z: 1.003698}
+    - name: unused mask root_end
+      parentName: unused mask root
+      position: {x: -0, y: 0.0014620448, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused tan
+      parentName: root head
+      position: {x: 0.000000002700093, y: -0.00025130672, z: -0.000093160794}
+      rotation: {x: -0.9985601, y: -0.000002169398, z: 0.00001143942, w: 0.053644653}
+      scale: {x: 1, y: 0.9991678, z: 1.0008613}
+    - name: unused tan_end
+      parentName: unused tan
+      position: {x: -0, y: 0.0008695617, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused rot head
+      parentName: root head
+      position: {x: -2.394813e-12, y: -4.468007e-10, z: -1.4871065e-10}
+      rotation: {x: -0.7537573, y: -0.000011488961, z: 0.000016299573, w: 0.65715295}
+      scale: {x: 1, y: 0.9989508, z: 1.001052}
+    - name: head eyeball right
+      parentName: unused rot head
+      position: {x: 0.00039076366, y: 0.0007527663, z: -0.00031925092}
+      rotation: {x: -0.71786916, y: -0.47420058, z: -0.092465885, w: 0.5012463}
+      scale: {x: 1.0046964, y: 1.0003991, z: 0.99494195}
+    - name: unused eye r_01b
+      parentName: head eyeball right
+      position: {x: 0.00028771293, y: -0.000027349786, z: 0.00009770963}
+      rotation: {x: 0.6884771, y: 0.11503992, z: -0.678438, w: 0.22910051}
+      scale: {x: 0.9955477, y: 1.0016496, z: 1.0028124}
+    - name: unused eye r_01b_end
+      parentName: unused eye r_01b
+      position: {x: -0, y: 0.00061311276, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused highlight r_01b
+      parentName: head eyeball right
+      position: {x: -0.00049663277, y: -0.0002679014, z: -0.00023165892}
+      rotation: {x: 0.5177887, y: -0.041758433, z: -0.799878, w: -0.30057645}
+      scale: {x: 1.013389, y: 1.0034355, z: 0.98343724}
+    - name: unused highlight r_01b_end
+      parentName: unused highlight r_01b
+      position: {x: -0, y: 0.0009476053, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b r eye01
+      parentName: head eyeball right
+      position: {x: 0.00032328488, y: -0.000030371955, z: 0.000079943595}
+      rotation: {x: 0.7248338, y: 0.15762094, z: -0.6318366, w: 0.22484244}
+      scale: {x: 0.99441415, y: 1.0005493, z: 1.0050242}
+    - name: unused b r eye01_end
+      parentName: unused b r eye01
+      position: {x: -0, y: 0.00063064514, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyeball left
+      parentName: unused rot head
+      position: {x: -0.00039079285, y: 0.0007527591, z: -0.00031921387}
+      rotation: {x: -0.71786934, y: 0.47421739, z: 0.09250436, w: 0.501223}
+      scale: {x: 1.004694, y: 1.0003988, z: 0.99494153}
+    - name: unused eye l_01b
+      parentName: head eyeball left
+      position: {x: -0.0002876935, y: -0.00002735435, z: 0.00009777032}
+      rotation: {x: 0.68841153, y: -0.11497043, z: 0.67850465, w: 0.22913499}
+      scale: {x: 0.9955482, y: 1.0016537, z: 1.0028112}
+    - name: unused eye l_01b_end
+      parentName: unused eye l_01b
+      position: {x: -0, y: 0.000613115, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused highlight l_01b
+      parentName: head eyeball left
+      position: {x: 0.0004816304, y: -0.00023868802, z: -0.0002430057}
+      rotation: {x: 0.5236672, y: 0.035635352, z: 0.79406255, w: -0.3065411}
+      scale: {x: 1.0131313, y: 1.0034686, z: 0.9837043}
+    - name: unused highlight l_01b_end
+      parentName: unused highlight l_01b
+      position: {x: -0, y: 0.00091888447, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b l eye01
+      parentName: head eyeball left
+      position: {x: -0.00032328456, y: -0.000030372674, z: 0.000079944395}
+      rotation: {x: 0.72483486, y: -0.15762119, z: 0.63183564, w: 0.2248419}
+      scale: {x: 0.9944236, y: 1.0005734, z: 1.0050495}
+    - name: unused b l eye01_end
+      parentName: unused b l eye01
+      position: {x: -0, y: 0.0006306441, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused ase
+      parentName: unused rot head
+      position: {x: -5.934311e-10, y: 0.00008326981, z: -0.00012955435}
+      rotation: {x: -0.9957411, y: -0.0000018126702, z: 0.000024138839, w: 0.09219396}
+      scale: {x: 1, y: 1.0023842, z: 0.99766386}
+    - name: unused ase_end
+      parentName: unused ase
+      position: {x: -0, y: 0.00070562493, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head mouth right corner
+      parentName: unused rot head
+      position: {x: 0.00022689377, y: 0.0006777756, z: 0.00059773197}
+      rotation: {x: 0.7574772, y: 0.2729897, z: 0.05322261, w: 0.5906541}
+      scale: {x: 0.9984961, y: 0.99815774, z: 1.0033717}
+    - name: head mouth right corner_end
+      parentName: head mouth right corner
+      position: {x: -0, y: 0.00064698426, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head mouth left corner
+      parentName: unused rot head
+      position: {x: -0.00022683173, y: 0.000677772, z: 0.00059775234}
+      rotation: {x: 0.75747734, y: -0.272951, z: -0.053252317, w: 0.59066916}
+      scale: {x: 0.9984958, y: 0.9981693, z: 1.00338}
+    - name: head mouth left corner_end
+      parentName: head mouth left corner
+      position: {x: -0, y: 0.000646983, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head mouth left upper
+      parentName: unused rot head
+      position: {x: -0.00016570886, y: 0.00069092435, z: 0.00056531373}
+      rotation: {x: 0.75523365, y: -0.21916954, z: -0.042763308, w: 0.6162452}
+      scale: {x: 0.9989713, y: 0.99821556, z: 1.0028385}
+    - name: head mouth left upper_end
+      parentName: head mouth left upper
+      position: {x: -0, y: 0.00059534085, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head mouth right upper
+      parentName: unused rot head
+      position: {x: 0.00016576712, y: 0.0006909289, z: 0.00056529866}
+      rotation: {x: 0.7552327, y: 0.21920958, z: 0.042733893, w: 0.61623424}
+      scale: {x: 0.99896735, y: 0.9982402, z: 1.0028589}
+    - name: head mouth right upper_end
+      parentName: head mouth right upper
+      position: {x: -0, y: 0.000595342, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyelid right shade
+      parentName: unused rot head
+      position: {x: 0.00037917765, y: 0.00093578105, z: -0.000314587}
+      rotation: {x: -0.57976806, y: -0.5232481, z: -0.10203522, w: 0.61617315}
+      scale: {x: 1.0048189, y: 0.9975671, z: 0.9976459}
+    - name: head eyelid right shade_end
+      parentName: head eyelid right shade
+      position: {x: -0, y: 0.0005176718, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyelid right lower
+      parentName: unused rot head
+      position: {x: 0.00032733526, y: 0.00082899537, z: -0.00013365036}
+      rotation: {x: -0.64174193, y: -0.6339605, z: -0.1236257, w: 0.41349497}
+      scale: {x: 1.0063835, y: 0.99929345, z: 0.9943833}
+    - name: head eyelid right lower_end
+      parentName: head eyelid right lower
+      position: {x: -0, y: 0.000357386, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eye right lower 3
+      parentName: unused rot head
+      position: {x: 0.0006547794, y: 0.0007689328, z: -0.00017447592}
+      rotation: {x: -0.70031404, y: -0.6371742, z: -0.12425096, w: 0.29686892}
+      scale: {x: 1.0059451, y: 1.0000472, z: 0.9940768}
+    - name: head eye right lower 3_end
+      parentName: head eye right lower 3
+      position: {x: -0, y: 0.00067767367, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eye right lower 2
+      parentName: unused rot head
+      position: {x: 0.00048583688, y: 0.000786995, z: -0.00010644768}
+      rotation: {x: -0.688038, y: -0.657856, z: -0.12828478, w: 0.27815875}
+      scale: {x: 1.005947, y: 0.9999506, z: 0.99417144}
+    - name: head eye right lower 2_end
+      parentName: head eye right lower 2
+      position: {x: -0, y: 0.0004974642, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyelid right upper
+      parentName: unused rot head
+      position: {x: 0.00050994847, y: 0.0009813176, z: -0.0002574973}
+      rotation: {x: -0.9923228, y: -0.011620097, z: -0.0022418415, w: 0.123108}
+      scale: {x: 1.000002, y: 1.0031229, z: 0.9969269}
+    - name: head eyelid right upper 1
+      parentName: head eyelid right upper
+      position: {x: -0.00017299892, y: 0.00008558121, z: -0.000045049692}
+      rotation: {x: 0.13047013, y: 0.051691186, z: -0.7236326, w: -0.67576724}
+      scale: {x: 1.0006756, y: 0.99987376, z: 0.99944556}
+    - name: head eyelid right upper 1_end
+      parentName: head eyelid right upper 1
+      position: {x: -0, y: 0.00017936155, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyelid right upper 3
+      parentName: head eyelid right upper
+      position: {x: 0.00017479563, y: 0.00014062795, z: 0.000019692045}
+      rotation: {x: 0.10427125, y: 0.04378592, z: -0.6140443, w: 0.78112733}
+      scale: {x: 0.9991784, y: 0.99970543, z: 1.0011071}
+    - name: head eyelid right upper 3_end
+      parentName: head eyelid right upper 3
+      position: {x: -0, y: 0.00018049472, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyelid right upper 2
+      parentName: head eyelid right upper
+      position: {x: -0.0000017967147, y: 0.000074299314, z: 0.000025338235}
+      rotation: {x: 0.9222392, y: 0.0054818215, z: 0.07882346, w: 0.3784598}
+      scale: {x: 0.9999191, y: 1.0026453, z: 0.9974381}
+    - name: head eyelid right upper 2_end
+      parentName: head eyelid right upper 2
+      position: {x: -0, y: 0.00004999943, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyebrow right 3
+      parentName: unused rot head
+      position: {x: 0.0005916177, y: 0.0010639579, z: -0.0003608194}
+      rotation: {x: -0.54300135, y: -0.6022958, z: -0.11745258, w: 0.5732315}
+      scale: {x: 1.0055851, y: 0.9976019, z: 0.9968605}
+    - name: head eyebrow right 3_end
+      parentName: head eyebrow right 3
+      position: {x: -0, y: 0.0007500703, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyebrow right 2
+      parentName: unused rot head
+      position: {x: 0.00039297625, y: 0.0010561593, z: -0.00034158147}
+      rotation: {x: -0.5032666, y: -0.5229387, z: -0.10197675, w: 0.68033713}
+      scale: {x: 1.0041392, y: 0.9964378, z: 0.99945205}
+    - name: head eyebrow right 2_end
+      parentName: head eyebrow right 2
+      position: {x: -0, y: 0.0005908422, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyebrow right 1
+      parentName: unused rot head
+      position: {x: 0.00022145078, y: 0.0010914201, z: -0.00022934638}
+      rotation: {x: -0.37493917, y: -0.46633902, z: -0.09094112, w: 0.79603916}
+      scale: {x: 1.0021793, y: 0.9953109, z: 1.0025403}
+    - name: head eyebrow right 1_end
+      parentName: head eyebrow right 1
+      position: {x: -0, y: 0.0004478435, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b r siwa01
+      parentName: unused rot head
+      position: {x: 0.00031531896, y: 0.00070734276, z: -0.00011057068}
+      rotation: {x: -0.76809484, y: -0.5600868, z: -0.10921499, w: 0.29052588}
+      scale: {x: 1.0051634, y: 1.0008705, z: 0.994023}
+    - name: unused b r siwa01_end
+      parentName: unused b r siwa01
+      position: {x: -0, y: 0.00034130635, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b r mikensiwa01
+      parentName: unused rot head
+      position: {x: 0.00013254986, y: 0.0007992356, z: -0.0003371907}
+      rotation: {x: -0.68362564, y: -0.22297058, z: -0.043469314, w: 0.69357806}
+      scale: {x: 1.0011789, y: 0.9992576, z: 0.99956954}
+    - name: unused b r mikensiwa01_end
+      parentName: unused b r mikensiwa01
+      position: {x: -0, y: 0.00036299566, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head tongue 1
+      parentName: unused rot head
+      position: {x: 0.00000002555448, y: 0.0002651943, z: 0.00040514348}
+      rotation: {x: 0.00000037957125, y: 0.98150754, z: 0.19142368, w: -0.000024177098}
+      scale: {x: 1.0000184, y: 1.0045841, z: 0.9954745}
+    - name: head tongue 2
+      parentName: head tongue 1
+      position: {x: 1.7763567e-16, y: 0.00026883747, z: -5.0045788e-12}
+      rotation: {x: 1.9240685e-13, y: 0.00000003846435, z: -3.0127012e-12, w: 1}
+      scale: {x: 1.0000162, y: 1.0000099, z: 1.0000098}
+    - name: head tongue 2_end
+      parentName: head tongue 2
+      position: {x: -0, y: 0.0002688375, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyelid left upper
+      parentName: unused rot head
+      position: {x: -0.0005099765, y: 0.0009813088, z: -0.00025744876}
+      rotation: {x: -0.9923343, y: 0.011616089, z: 0.0022896735, w: 0.12301415}
+      scale: {x: 1.0000021, y: 1.0031148, z: 0.9969234}
+    - name: head eyelid left upper 1
+      parentName: head eyelid left upper
+      position: {x: 0.00017299941, y: 0.000085590626, z: -0.000045031164}
+      rotation: {x: 0.13033128, y: -0.051758848, z: 0.72364664, w: -0.6757739}
+      scale: {x: 1.0006804, y: 0.9998742, z: 0.9994631}
+    - name: head eyelid left upper 1_end
+      parentName: head eyelid left upper 1
+      position: {x: -0, y: 0.00017935732, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyelid left upper 3
+      parentName: head eyelid left upper
+      position: {x: -0.00017479577, y: 0.00014063179, z: 0.000019671388}
+      rotation: {x: 0.1042362, y: -0.043841768, z: 0.6140486, w: 0.7811255}
+      scale: {x: 0.99918276, y: 0.9997011, z: 1.0011128}
+    - name: head eyelid left upper 3_end
+      parentName: head eyelid left upper 3
+      position: {x: -0, y: 0.00018049244, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyelid left upper 2
+      parentName: head eyelid left upper
+      position: {x: 0.0000017965338, y: 0.00007429547, z: 0.00002535603}
+      rotation: {x: 0.9222196, y: -0.005477578, z: -0.07876656, w: 0.37851948}
+      scale: {x: 0.99991, y: 1.0026445, z: 0.9974443}
+    - name: head eyelid left upper 2_end
+      parentName: head eyelid left upper 2
+      position: {x: -0, y: 0.000049999173, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b l mikensiwa01
+      parentName: unused rot head
+      position: {x: -0.00013258164, y: 0.00079923286, z: -0.00033717827}
+      rotation: {x: -0.683626, y: 0.22299618, z: 0.04350786, w: 0.69356716}
+      scale: {x: 1.0011815, y: 0.99925816, z: 0.99957085}
+    - name: unused b l mikensiwa01_end
+      parentName: unused b l mikensiwa01
+      position: {x: -0, y: 0.00036299552, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b l siwa01
+      parentName: unused rot head
+      position: {x: -0.00031532705, y: 0.00070733693, z: -0.0001105408}
+      rotation: {x: -0.7680952, y: 0.5600928, z: 0.10925401, w: 0.2904987}
+      scale: {x: 1.0051643, y: 1.0008677, z: 0.9940218}
+    - name: unused b l siwa01_end
+      parentName: unused b l siwa01
+      position: {x: -0, y: 0.00034130536, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyelid left shade
+      parentName: unused rot head
+      position: {x: -0.00037920984, y: 0.0009357735, z: -0.00031454867}
+      rotation: {x: -0.57976794, y: 0.52327144, z: 0.102068126, w: 0.61614805}
+      scale: {x: 1.0048251, y: 0.9975678, z: 0.99764824}
+    - name: head eyelid left shade_end
+      parentName: head eyelid left shade
+      position: {x: -0, y: 0.00051767135, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyebrow left 2
+      parentName: unused rot head
+      position: {x: -0.00039301373, y: 0.001056152, z: -0.00034154422}
+      rotation: {x: -0.5032666, y: 0.52296627, z: 0.10200684, w: 0.68031156}
+      scale: {x: 1.0041431, y: 0.9964419, z: 0.99945456}
+    - name: head eyebrow left 2_end
+      parentName: head eyebrow left 2
+      position: {x: -0, y: 0.0005908422, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyelid left lower
+      parentName: unused rot head
+      position: {x: -0.00032734772, y: 0.00082898926, z: -0.00013361935}
+      rotation: {x: -0.6417417, y: 0.63397396, z: 0.12365989, w: 0.41346452}
+      scale: {x: 1.0063881, y: 0.9992949, z: 0.9943813}
+    - name: head eyelid left lower_end
+      parentName: head eyelid left lower
+      position: {x: -0, y: 0.00035738497, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eye left lower 2
+      parentName: unused rot head
+      position: {x: -0.0006547956, y: 0.0007689204, z: -0.000174414}
+      rotation: {x: -0.7003141, y: 0.63718164, z: 0.12428662, w: 0.29683757}
+      scale: {x: 1.0059409, y: 1.0000423, z: 0.99407226}
+    - name: head eye left lower 2_end
+      parentName: head eye left lower 2
+      position: {x: -0, y: 0.0006776735, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head nose left
+      parentName: unused rot head
+      position: {x: 0.000000017688226, y: 0.00092123746, z: 0.00037651343}
+      rotation: {x: 0.5665897, y: 0.00002574494, z: -0.000008915429, w: 0.8240001}
+      scale: {x: 1, y: 1.0043882, z: 0.9956445}
+    - name: head nose left_end
+      parentName: head nose left
+      position: {x: -0, y: 0.00040323168, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head cheek right
+      parentName: unused rot head
+      position: {x: 0.00045156202, y: 0.0006945181, z: 0.00012161801}
+      rotation: {x: 0.7557679, y: 0.6396694, z: 0.12473608, w: 0.06386701}
+      scale: {x: 1.0013901, y: 0.99943244, z: 0.9992283}
+    - name: head cheek right_end
+      parentName: head cheek right
+      position: {x: -0, y: 0.00047485362, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eye left lower 1
+      parentName: unused rot head
+      position: {x: -0.00048584613, y: 0.000786986, z: -0.00010640161}
+      rotation: {x: -0.6880379, y: 0.6578627, z: 0.12831992, w: 0.27812693}
+      scale: {x: 1.0059481, y: 0.9999507, z: 0.9941694}
+    - name: head eye left lower 1_end
+      parentName: head eye left lower 1
+      position: {x: -0, y: 0.00049746316, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head cheek left
+      parentName: unused rot head
+      position: {x: -0.00045154698, y: 0.0006875855, z: 0.00011885603}
+      rotation: {x: 0.76067615, y: -0.63428897, z: -0.12372424, w: 0.061168116}
+      scale: {x: 1.0014299, y: 0.9993915, z: 0.99920607}
+    - name: head cheek left_end
+      parentName: head cheek left
+      position: {x: -0, y: 0.0004753922, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head jaw
+      parentName: unused rot head
+      position: {x: 0.000000023337574, y: 0.00018265094, z: 0.00034329394}
+      rotation: {x: 0.29782292, y: 0.000059265352, z: 0.0000042329684, w: 0.95462114}
+      scale: {x: 1, y: 1.0061446, z: 0.99390876}
+    - name: head mouth lower
+      parentName: head jaw
+      position: {x: 2.725642e-13, y: 0.0005772625, z: 5.971957e-11}
+      rotation: {x: -0, y: -1.2732926e-10, z: 1.2732926e-11, w: 1}
+      scale: {x: 1, y: 0.999995, z: 0.9999951}
+    - name: head mouth lower_end
+      parentName: head mouth lower
+      position: {x: -0, y: 0.00057726284, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head mouth upper
+      parentName: unused rot head
+      position: {x: 0.000000027458404, y: 0.0007474045, z: 0.00054132147}
+      rotation: {x: 0.72608757, y: 0.000022035147, z: -0.000013562133, w: 0.68760234}
+      scale: {x: 1, y: 0.9993183, z: 1.0007409}
+    - name: head mouth upper_end
+      parentName: head mouth upper
+      position: {x: -0, y: 0.00054212444, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyebrow left 3
+      parentName: unused rot head
+      position: {x: -0.00059165724, y: 0.001063947, z: -0.00036076328}
+      rotation: {x: -0.5430013, y: 0.60231787, z: 0.11748367, w: 0.57320184}
+      scale: {x: 1.0055742, y: 0.9975975, z: 0.99685544}
+    - name: head eyebrow left 3_end
+      parentName: head eyebrow left 3
+      position: {x: -0, y: 0.0007500702, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head eyebrow left 1
+      parentName: unused rot head
+      position: {x: -0.00022147819, y: 0.0010914161, z: -0.00022932532}
+      rotation: {x: -0.37493902, y: 0.46637312, z: 0.0909664, w: 0.7960164}
+      scale: {x: 1.0021813, y: 0.99531084, z: 1.0025395}
+    - name: head eyebrow left 1_end
+      parentName: head eyebrow left 1
+      position: {x: -0, y: 0.0004478434, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head mouth right lower
+      parentName: unused rot head
+      position: {x: 0.00016958412, y: 0.0006632532, z: 0.0006335517}
+      rotation: {x: 0.7641229, y: 0.1976036, z: 0.03851977, w: 0.6128502}
+      scale: {x: 0.9991653, y: 0.9979104, z: 1.0030042}
+    - name: head mouth right lower_end
+      parentName: head mouth right lower
+      position: {x: -0, y: 0.0006656291, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head mouth left lower
+      parentName: unused rot head
+      position: {x: -0.00016954138, y: 0.0006632487, z: 0.0006335673}
+      rotation: {x: 0.7641229, y: -0.19758813, z: -0.03855441, w: 0.61285293}
+      scale: {x: 0.9991619, y: 0.9978872, z: 1.0029814}
+    - name: head mouth left lower_end
+      parentName: head mouth left lower
+      position: {x: -0, y: 0.0006656338, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused bip01 headnub
+      parentName: head neck upper
+      position: {x: 0.0000000023603264, y: 0.0022087498, z: 0.00000087786225}
+      rotation: {x: 0.00035658482, y: -0.0000009598608, z: -0.0000009592922, w: 0.99999994}
+      scale: {x: 1, y: 0.9999971, z: 1.0000001}
+    - name: unused bip01 headnub_end
+      parentName: unused bip01 headnub
+      position: {x: -0, y: 0.0012306882, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused bip01 footsteps
+      parentName: unused bip01
+      position: {x: 1.1427005e-18, y: 0.012107549, z: 0.00016082099}
+      rotation: {x: 0.014255748, y: 1.4432901e-14, z: 4.4408926e-16, w: 0.9998984}
+      scale: {x: 1, y: 1.000013, z: 1.0000138}
+    - name: unused bip01 footsteps_end
+      parentName: unused bip01 footsteps
+      position: {x: -0, y: 0.0056411647, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b r hiza02_mesh1
+      parentName: Armature
+      position: {x: 0.001084065, y: -0.000119286, z: 0.0067097}
+      rotation: {x: -6.123212e-17, y: -0, z: 1, w: -2.7755576e-15}
+      scale: {x: 1, y: 0.9999945, z: 0.9999945}
+    - name: unused b r hiza02_mesh1_end
+      parentName: unused b r hiza02_mesh1
+      position: {x: -0, y: 0.005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b r hiza01_mesh1
+      parentName: Armature
+      position: {x: 0.001083875, y: 0.0006934, z: 0.0067541995}
+      rotation: {x: -6.123212e-17, y: -0, z: 1, w: -2.7755576e-15}
+      scale: {x: 1, y: 0.9999945, z: 0.9999945}
+    - name: unused b r hiza01_mesh1_end
+      parentName: unused b r hiza01_mesh1
+      position: {x: -0, y: 0.005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b l hiza02_mesh1
+      parentName: Armature
+      position: {x: -0.0010835499, y: -0.0001192875, z: 0.0067097}
+      rotation: {x: -6.123212e-17, y: -0, z: 1, w: -2.7755576e-15}
+      scale: {x: 1, y: 0.9999945, z: 0.9999945}
+    - name: unused b l hiza02_mesh1_end
+      parentName: unused b l hiza02_mesh1
+      position: {x: -0, y: 0.005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b l hiza01_mesh1
+      parentName: Armature
+      position: {x: -0.001083355, y: 0.000693395, z: 0.0067541995}
+      rotation: {x: -6.123212e-17, y: -0, z: 1, w: -2.7755576e-15}
+      scale: {x: 1, y: 0.9999945, z: 0.9999945}
+    - name: unused b l hiza01_mesh1_end
+      parentName: unused b l hiza01_mesh1
+      position: {x: -0, y: 0.005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b r hiji02_mesh1
+      parentName: Armature
+      position: {x: 0.0050170496, y: 0.001529005, z: 0.01836695}
+      rotation: {x: -6.123212e-17, y: -0, z: 1, w: -2.7755576e-15}
+      scale: {x: 1, y: 0.9999945, z: 0.9999945}
+    - name: unused b r hiji02_mesh1_end
+      parentName: unused b r hiji02_mesh1
+      position: {x: -0, y: 0.005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b r hiji01_mesh1
+      parentName: Armature
+      position: {x: 0.0050164, y: 0.000715105, z: 0.01836695}
+      rotation: {x: -6.123212e-17, y: -0, z: 1, w: -2.7755576e-15}
+      scale: {x: 1, y: 0.9999945, z: 0.9999945}
+    - name: unused b r hiji01_mesh1_end
+      parentName: unused b r hiji01_mesh1
+      position: {x: -0, y: 0.005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b l hiji02_mesh1
+      parentName: Armature
+      position: {x: -0.0050170496, y: 0.0015289751, z: 0.0183669}
+      rotation: {x: -6.123212e-17, y: -0, z: 1, w: -2.7755576e-15}
+      scale: {x: 1, y: 0.9999945, z: 0.9999945}
+    - name: unused b l hiji02_mesh1_end
+      parentName: unused b l hiji02_mesh1
+      position: {x: -0, y: 0.005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused b l hiji01_mesh1
+      parentName: Armature
+      position: {x: -0.0050164, y: 0.00071507494, z: 0.0183669}
+      rotation: {x: -6.123212e-17, y: -0, z: 1, w: -2.7755576e-15}
+      scale: {x: 1, y: 0.9999945, z: 0.9999945}
+    - name: unused b l hiji01_mesh1_end
+      parentName: unused b l hiji01_mesh1
+      position: {x: -0, y: 0.005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused eye r_01b_mesh1
+      parentName: Armature
+      position: {x: 0.0004895215, y: -0.0002804765, z: 0.02081665}
+      rotation: {x: -6.123212e-17, y: -0, z: 1, w: -2.7755576e-15}
+      scale: {x: 1, y: 0.9999945, z: 0.9999945}
+    - name: unused eye r_01b_mesh1_end
+      parentName: unused eye r_01b_mesh1
+      position: {x: -0, y: 0.0049999994, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused highlight r_01b_mesh1
+      parentName: Armature
+      position: {x: -0.00000188788, y: 0.00044545447, z: 0.02070225}
+      rotation: {x: -6.123212e-17, y: -0, z: 1, w: -2.7755576e-15}
+      scale: {x: 1, y: 0.9999945, z: 0.9999945}
+    - name: unused highlight r_01b_mesh1_end
+      parentName: unused highlight r_01b_mesh1
+      position: {x: -0, y: 0.005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused eye l_01b_mesh1
+      parentName: Armature
+      position: {x: -0.00048952346, y: -0.000280496, z: 0.0208167}
+      rotation: {x: -6.123212e-17, y: -0, z: 1, w: -2.7755576e-15}
+      scale: {x: 1, y: 0.9999945, z: 0.9999945}
+    - name: unused eye l_01b_mesh1_end
+      parentName: unused eye l_01b_mesh1
+      position: {x: -0, y: 0.005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused highlight l_01b_mesh1
+      parentName: Armature
+      position: {x: -0.00003263175, y: 0.000448522, z: 0.020705199}
+      rotation: {x: -6.123212e-17, y: -0, z: 1, w: -2.7755576e-15}
+      scale: {x: 1, y: 0.9999945, z: 0.9999945}
+    - name: unused highlight l_01b_mesh1_end
+      parentName: unused highlight l_01b_mesh1
+      position: {x: -0, y: 0.005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused ase_mesh1
+      parentName: Armature
+      position: {x: -0.00000001841525, y: 0.00055441, z: 0.02043025}
+      rotation: {x: -6.123212e-17, y: -0, z: 1, w: -2.7755576e-15}
+      scale: {x: 1, y: 0.9999945, z: 0.9999945}
+    - name: unused ase_mesh1_end
+      parentName: unused ase_mesh1
+      position: {x: -0, y: 0.005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 0
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
